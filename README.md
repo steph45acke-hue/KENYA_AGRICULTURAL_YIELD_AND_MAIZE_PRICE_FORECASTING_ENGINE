@@ -33,3 +33,13 @@ Maize is the lifeblood of Kenya's food security and agricultural economy, consum
 
 ## 🎯 The Solution & Impact
 The **KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE** bridges this gap by transforming chaotic, raw multi-source data into a centralized, automated intelligence platform. By combining robust relational data storage, advanced time-series feature engineering, machine learning regression models, and an interactive Streamlit dashboard, this project delivers actionable foresight to stabilize markets, guide agricultural planning, and empower data-driven policy making.
+
+
+
+### Step 1: Advanced HTTP Requests & Session Management
+Before we can analyze or forecast anything, we have to collect the data. Public agricultural portals often block automated scripts or bots. To bypass this, we built a robust Python script utilizing persistent sessions and custom browser headers (`User-Agent`) to camouflage our requests, making them look like a human browsing via Google Chrome on a desktop.
+
+When executed, the script successfully connected to the target agricultural portal (`https://keep.kalro.org/market`), bypassing bot filters and returning a clean **Status Code: 200 (Success)** with the raw HTML response preview ready for parsing.
+
+*Execution Proof & Status Code Verification:*
+![Step 1 Execution Success](Screenshot%20(272).png)
