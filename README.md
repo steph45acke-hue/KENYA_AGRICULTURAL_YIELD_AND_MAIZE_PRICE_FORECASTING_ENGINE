@@ -30,6 +30,19 @@ Maize is the lifeblood of Kenya's food security and agricultural economy, consum
 4. **The Lack of Predictive Intelligence:** Existing agricultural tracking is largely reactive rather than proactive. Stakeholders lack localized, data-driven forecasting tools to predict price spikes or yield shortages months before they happen.
 
 ---
+# 📋 Research & Business Questions
+
+* **Q1:** How have maize prices changed across Kenyan markets over time?
+* **Q2:** Which counties/regions experience the largest price volatility?
+* **Q3:** How are rainfall and temperature associated with maize production/yields?
+* **Q4:** Do weather conditions from previous months help predict maize prices?
+* **Q5:** Can we forecast maize prices 1, 3 or 6 months ahead?
+* **Q6:** Can agricultural/weather variables improve yield predictions compared with historical-yield-only baselines?
+* **Q7:** Which variables contribute most to the forecasts?
+* **Q8:** Would this specific information actually be available at the exact time I am making the forecast?
+* **Q9:** Where does the model fail?
+* **Q10:** What happens to the forecast if rainfall is 15% below historical average?
+
 
 ## 🎯 The Solution & Impact
 The **KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE** bridges this gap by transforming chaotic, raw multi-source data into a centralized, automated intelligence platform. By combining robust relational data storage, advanced time-series feature engineering, machine learning regression models, and an interactive Streamlit dashboard, this project delivers actionable foresight to stabilize markets, guide agricultural planning, and empower data-driven policy making.
