@@ -1,0 +1,1131 @@
+reporting_date,county_name,market_name,commodity,wholesale_price,unit,retail_price_per_kg,supply_volume_tonnes
+2024-01-01,Machakos,Machakos Town,Dry Maize,4926,90kg bag,64.36,30.0
+2024-01-01,Machakos,Athi River,Dry Maize,"KES 3,930",90-kg bag,54.32,52.6
+2024-01-01,Kitui,Kitui Central,Dry Maize,"KES 3,821",90kg bag,,96.6
+2024-01-01,Makueni,Wote,Dry Maize,5390,90kg bag,70.68,
+2024-01-01,Nairobi,Wakulima,Dry Maize,4400,Bag (90kg),54.42,14.8
+2024-01-01,Nakuru,Nakuru Main,Dry Maize,4005,90kg bag,50.3,14.4
+2024-01-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,4201,90-kg bag,54.34,
+2024-01-08,Machakos,Machakos Town,Dry Maize,4095,90 kg,54.97,48.6
+2024-01-08,Machakos ,Athi River,Dry Maize,4980,90kg bag,65.38,26.2
+2024-01-08,Kitui,Kitui Central,Dry Maize,3934,90kg bag,52.93,92.8
+2024-01-08,Makueni,Wote,Dry Maize,4525,90kg bag,58.9,83.2
+2024-01-08,Nairobi,Wakulima,Dry Maize,"KES 4,838",90kg bag,59.88,107.4
+2024-01-08,Nakuru,Nakuru Main,Dry Maize,4284,90kg bag,52.37,123.1
+2024-01-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,4812,Bag (90kg),63.72,135.5
+2024-01-15,Machakos,Machakos Town,Dry Maize,5054,90kg bag,60.53,47.7
+2024-01-15,Machakos,Athi River,Dry Maize,4463,90kg bag,53.97,144.7
+2024-01-15,Kitui,Kitui Central,Dry Maize,5333,90 kg,66.82,72.7
+2024-01-15,Makueni,Wote,Dry Maize,5533,90 kg,70.45,98.5
+2024-01-15,Nairobi,Wakulima,Dry Maize,3997,Bag (90kg),49.74,40.8
+2024-01-15,Nakuru,Nakuru Main,Dry Maize,5169,90kg bag,67.18,141.1
+2024-01-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,4440,90 kg,57.35,82.3
+2024-01-22,Machakos,Machakos Town,Dry Maize,4680,90kg bag,55.47,58.9
+2024-01-22,Machakos,Athi River,Dry Maize,4615,Bag (90kg),61.73,91.3
+2024-01-22,Kitui,Kitui Central,Dry Maize,"KES 4,935",90 kg,,101.3
+2024-01-22,Makueni,Wote,Dry Maize,5504,90kg bag,66.34,86.0
+2024-01-22,Nairobi,Wakulima,Dry Maize,4754,90kg bag,60.67,98.4
+2024-01-22,Nakuru,Nakuru Main,Dry Maize,4025,90 kg,53.98,16.1
+2024-01-22,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4995,90-kg bag,65.01,69.9
+2024-01-29,Machakos,Machakos Town,Dry Maize,3980,90-kg bag,50.2,65.3
+2024-01-29,Machakos,Athi River,Dry Maize,4365,90kg bag,54.35,82.6
+2024-01-29,Kitui,Kitui Central,Dry Maize,5209,Bag (90kg),67.82,95.6
+2024-01-29,Makueni,Wote,Dry Maize,4627,90kg bag,56.94,134.6
+2024-01-29,Nairobi,Wakulima,Dry Maize,"KES 4,270",90kg bag,60.23,130.5
+2024-01-29,Nakuru,Nakuru Main,Dry Maize,"KES 4,104",Bag (90kg),50.41,40.2
+2024-01-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,3804,Bag (90kg),47.48,110.0
+2024-02-05,Machakos ,Machakos Town,Dry Maize,5482,90kg bag,66.17,127.0
+2024-02-05,Machakos,Athi River,Dry Maize,5216,90kg bag,66.3,99.4
+2024-02-05,Kitui,Kitui Central,Dry Maize,5012,90kg bag,66.54,116.1
+2024-02-05,Makueni ,Wote,Dry Maize,4496,90kg bag,56.61,123.0
+2024-02-05,Nairobi,Wakulima,Dry Maize,5435,90kg bag,67.64,
+2024-02-05,Nakuru,Nakuru Main,Dry Maize,"KES 5,046",90-kg bag,74.04,131.4
+2024-02-05,Uasin Gishu,Eldoret Wholesale,Dry Maize,3959,90kg bag,50.84,141.8
+2024-02-12,Machakos,Machakos Town,Dry Maize,5400,90-kg bag,69.84,
+2024-02-12,Machakos,Athi River,Dry Maize,4217,90kg bag,52.02,
+2024-02-12,Kitui,Kitui Central,Dry Maize,4528,90kg bag,59.51,118.7
+2024-02-12,Makueni,Wote,Dry Maize,5487,90kg bag,67.98,62.9
+2024-02-12,Nairobi,Wakulima,Dry Maize,3861,90kg bag,47.57,144.0
+2024-02-12,Nakuru,Nakuru Main,Dry Maize,4534,90kg bag,57.04,104.2
+2024-02-12,Uasin Gishu,Eldoret Wholesale,Dry Maize,5307,90 kg,73.25,127.4
+2024-02-19,Machakos ,Machakos Town,Dry Maize,4997,90kg bag,65.06,148.1
+2024-02-19,Machakos,Athi River,Dry Maize,5319,Bag (90kg),68.83,62.9
+2024-02-19,Kitui ,Kitui Central,Dry Maize,3966,90-kg bag,50.11,17.9
+2024-02-19,Makueni,Wote,Dry Maize,4275,Bag (90kg),57.15,84.0
+2024-02-19,Nairobi,Wakulima,Dry Maize,4940,90kg bag,66.52,149.0
+2024-02-19,Nakuru,Nakuru Main,Dry Maize,5052,90 kg,62.45,138.1
+2024-02-19,Uasin Gishu,Eldoret Wholesale,Dry Maize,5153,Bag (90kg),62.94,74.9
+2024-02-26,Machakos,Machakos Town,Dry Maize,4497,90kg bag,53.48,94.4
+2024-02-26,Machakos,Athi River,Dry Maize,4551,90-kg bag,55.84,68.6
+2024-02-26,Kitui,Kitui Central,Dry Maize,4623,90kg bag,58.14,114.9
+2024-02-26,Makueni,Wote,Dry Maize,5040,Bag (90kg),60.89,17.9
+2024-02-26,Nairobi,Wakulima,Dry Maize,4317,90kg bag,56.12,43.8
+2024-02-26,Nakuru,Nakuru Main,Dry Maize,"KES 4,256",90-kg bag,54.96,60.1
+2024-02-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,895",90kg bag,66.37,120.9
+2024-03-04,Machakos,Machakos Town,Dry Maize,"KES 4,200",90kg bag,53.39,29.1
+2024-03-04,Machakos,Athi River,Dry Maize,4563,90 kg,60.78,137.5
+2024-03-04,Kitui,Kitui Central,Dry Maize,4341,Bag (90kg),61.63,46.2
+2024-03-04,Makueni,Wote,Dry Maize,"KES 4,783",90 kg,57.67,91.9
+2024-03-04,Nairobi,Wakulima,Dry Maize,5197,90kg bag,64.6,146.2
+2024-03-04,Nakuru,Nakuru Main,Dry Maize,3860,90kg bag,47.73,38.9
+2024-03-04,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,345",90kg bag,53.14,81.6
+2024-03-11,Machakos,Machakos Town,Dry Maize,3906,90kg bag,52.46,77.8
+2024-03-11,Machakos,Athi River,Dry Maize,4273,90kg bag,52.74,106.2
+2024-03-11,Kitui,Kitui Central,Dry Maize,4718,90kg bag,59.9,12.8
+2024-03-11,Makueni,Wote,Dry Maize,5096,90kg bag,62.25,120.5
+2024-03-11,Nairobi,Wakulima,Dry Maize,3908,90kg bag,51.14,136.0
+2024-03-11,Nakuru,Nakuru Main,Dry Maize,5143,90kg bag,70.66,31.4
+2024-03-11,Uasin Gishu,Eldoret Wholesale,Dry Maize,5326,Bag (90kg),68.58,111.2
+2024-03-18,Machakos,Machakos Town,Dry Maize,4373,90kg bag,58.6,55.3
+2024-03-18,Machakos,Athi River,Dry Maize,4523,90kg bag,58.57,84.6
+2024-03-18,Kitui,Kitui Central,Dry Maize,5496,90kg bag,67.51,22.3
+2024-03-18,Makueni,Wote,Dry Maize,5142,90 kg,63.53,145.1
+2024-03-18,Nairobi,Wakulima,Dry Maize,4133,90-kg bag,60.11,16.7
+2024-03-18,Nakuru,Nakuru Main,Dry Maize,"KES 5,172",90 kg,64.62,60.2
+2024-03-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,5572,90 kg,69.9,85.6
+2024-03-25,Machakos,Machakos Town,Dry Maize,4374,90kg bag,55.17,141.6
+2024-03-25,Machakos,Athi River,Dry Maize,4190,90 kg,56.01,90.2
+2024-03-25,Kitui,Kitui Central,Dry Maize,3956,90kg bag,,57.9
+2024-03-25,Makueni,Wote,Dry Maize,4605,90kg bag,56.27,78.1
+2024-03-25,Nairobi,Wakulima,Dry Maize,4123,90 kg,56.84,137.2
+2024-03-25,Nakuru,Nakuru Main,Dry Maize,4349,90kg bag,58.6,24.1
+2024-03-25,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,792",Bag (90kg),61.56,90.7
+2024-04-01,Machakos,Machakos Town,Dry Maize,"KES 5,201",90kg bag,68.63,43.0
+2024-04-01,Machakos,Athi River,Dry Maize,5169,90kg bag,73.66,10.6
+2024-04-01,Kitui,Kitui Central,Dry Maize,"KES 4,736",90kg bag,62.09,138.6
+2024-04-01,Makueni,Wote,Dry Maize,4439,90kg bag,55.98,91.3
+2024-04-01,Nairobi,Wakulima,Dry Maize,4461,90kg bag,56.18,130.5
+2024-04-01,Nakuru,Nakuru Main,Dry Maize,4886,90kg bag,60.4,36.7
+2024-04-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,4228,Bag (90kg),54.47,84.8
+2024-04-08,Machakos,Machakos Town,Dry Maize,4936,90kg bag,62.04,100.2
+2024-04-08,Machakos,Athi River,Dry Maize,5203,90-kg bag,65.37,45.5
+2024-04-08,Kitui,Kitui Central,Dry Maize,4242,90kg bag,56.64,148.4
+2024-04-08,Makueni,Wote,Dry Maize,5111,Bag (90kg),59.67,135.5
+2024-04-08,Nairobi,Wakulima,Dry Maize,3806,90 kg,49.62,125.5
+2024-04-08,Nakuru,Nakuru Main,Dry Maize,4506,90kg bag,60.19,51.2
+2024-04-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,5323,90 kg,68.52,81.7
+2024-04-15,Machakos,Machakos Town,Dry Maize,4320,90 kg,52.27,83.6
+2024-04-15,Machakos ,Athi River,Dry Maize,4932,90 kg,63.38,79.6
+2024-04-15,Kitui,Kitui Central,Dry Maize,4387,90kg bag,59.99,94.1
+2024-04-15,Makueni,Wote,Dry Maize,4620,90-kg bag,53.51,21.6
+2024-04-15,Nairobi,Wakulima,Dry Maize,5115,90kg bag,61.52,95.5
+2024-04-15,Nakuru,Nakuru Main,Dry Maize,5133,90 kg,65.87,17.2
+2024-04-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,4757,90kg bag,61.32,67.8
+2024-04-22,Machakos,Machakos Town,Dry Maize,3860,90kg bag,51.45,60.5
+2024-04-22,Machakos,Athi River,Dry Maize,4867,90-kg bag,60.5,144.1
+2024-04-22,Kitui,Kitui Central,Dry Maize,4138,Bag (90kg),56.73,148.3
+2024-04-22,Makueni,Wote,Dry Maize,"KES 5,361",90 kg,71.69,14.8
+2024-04-22,Nairobi ,Wakulima,Dry Maize,4428,90kg bag,55.99,83.1
+2024-04-22,Nakuru ,Nakuru Main,Dry Maize,"KES 4,414",90kg bag,53.51,57.6
+2024-04-22,Uasin Gishu,Eldoret Wholesale,Dry Maize,3982,90kg bag,51.41,132.7
+2024-04-29,Machakos,Machakos Town,Dry Maize,"KES 5,273",Bag (90kg),,121.8
+2024-04-29,Machakos ,Athi River,Dry Maize,"KES 4,862",90kg bag,69.92,83.2
+2024-04-29,Kitui,Kitui Central,Dry Maize,4376,90kg bag,53.96,15.9
+2024-04-29,Makueni,Wote,Dry Maize,4504,90kg bag,56.82,92.4
+2024-04-29,Nairobi,Wakulima,Dry Maize,4606,90-kg bag,56.2,42.4
+2024-04-29,Nakuru,Nakuru Main,Dry Maize,5483,90kg bag,,98.2
+2024-04-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,4526,90-kg bag,56.33,107.4
+2024-05-06,Machakos,Machakos Town,Dry Maize,4015,90kg bag,,64.8
+2024-05-06,Machakos,Athi River,Dry Maize,"KES 4,434",Bag (90kg),58.71,87.1
+2024-05-06,Kitui,Kitui Central,Dry Maize,4754,90kg bag,60.88,18.6
+2024-05-06,Makueni,Wote,Dry Maize,5124,90kg bag,63.58,47.4
+2024-05-06,Nairobi,Wakulima,Dry Maize,5085,Bag (90kg),63.06,24.8
+2024-05-06,Nakuru ,Nakuru Main,Dry Maize,5490,90kg bag,68.73,28.0
+2024-05-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,4162,90-kg bag,50.75,26.2
+2024-05-13,Machakos,Machakos Town,Dry Maize,4665,90kg bag,62.2,144.8
+2024-05-13,Machakos ,Athi River,Dry Maize,5235,90-kg bag,65.55,58.4
+2024-05-13,Kitui,Kitui Central,Dry Maize,"KES 4,273",Bag (90kg),55.18,93.2
+2024-05-13,Makueni,Wote,Dry Maize,"KES 4,259",90kg bag,54.03,149.6
+2024-05-13,Nairobi,Wakulima,Dry Maize,4922,90kg bag,56.79,105.3
+2024-05-13,Nakuru,Nakuru Main,Dry Maize,"KES 4,845",Bag (90kg),63.2,53.7
+2024-05-13,Uasin Gishu,Eldoret Wholesale,Dry Maize,4369,90kg bag,56.56,131.0
+2024-05-20,Machakos,Machakos Town,Dry Maize,4007,90kg bag,50.72,137.7
+2024-05-20,Machakos,Athi River,Dry Maize,4177,90 kg,49.81,70.2
+2024-05-20,Kitui,Kitui Central,Dry Maize,5501,90kg bag,66.31,75.0
+2024-05-20,Makueni,Wote,Dry Maize,5143,90-kg bag,69.18,137.1
+2024-05-20,Nairobi,Wakulima,Dry Maize,4578,90kg bag,58.49,
+2024-05-20,Nakuru,Nakuru Main,Dry Maize,3801,Bag (90kg),45.09,146.8
+2024-05-20,Uasin Gishu,Eldoret Wholesale,Dry Maize,3889,Bag (90kg),48.21,
+2024-05-27,Machakos,Machakos Town,Dry Maize,4573,90 kg,57.1,119.7
+2024-05-27,Machakos,Athi River,Dry Maize,3910,90kg bag,50.3,112.4
+2024-05-27,Kitui,Kitui Central,Dry Maize,4770,90kg bag,63.8,75.8
+2024-05-27,Makueni,Wote,Dry Maize,4484,90 kg,57.22,146.5
+2024-05-27,Nairobi,Wakulima,Dry Maize,"KES 5,466",90kg bag,76.27,34.4
+2024-05-27,Nakuru ,Nakuru Main,Dry Maize,5548,90 kg,65.3,91.0
+2024-05-27,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,219",90kg bag,51.2,148.9
+2024-06-03,Machakos,Machakos Town,Dry Maize,3985,90kg bag,55.35,35.2
+2024-06-03,Machakos,Athi River,Dry Maize,4739,90kg bag,64.69,66.7
+2024-06-03,Kitui,Kitui Central,Dry Maize,3813,90kg bag,45.25,55.5
+2024-06-03,Makueni,Wote,Dry Maize,5247,90kg bag,68.0,56.3
+2024-06-03,Nairobi,Wakulima,Dry Maize,5428,Bag (90kg),64.69,15.1
+2024-06-03,Nakuru,Nakuru Main,Dry Maize,4486,90kg bag,56.04,38.8
+2024-06-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,756",90-kg bag,59.81,22.4
+2024-06-10,Machakos,Machakos Town,Dry Maize,4984,90kg bag,62.33,
+2024-06-10,Machakos,Athi River,Dry Maize,4016,Bag (90kg),54.31,
+2024-06-10,Kitui ,Kitui Central,Dry Maize,4107,90kg bag,43.79,72.1
+2024-06-10,Makueni,Wote,Dry Maize,4316,90kg bag,54.84,25.8
+2024-06-10,Nairobi,Wakulima,Dry Maize,4144,90 kg,52.87,24.9
+2024-06-10,Nakuru ,Nakuru Main,Dry Maize,5043,90 kg,66.85,25.3
+2024-06-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,5433,90kg bag,68.23,71.0
+2024-06-17,Machakos,Machakos Town,Dry Maize,5154,90kg bag,61.84,86.8
+2024-06-17,Machakos,Athi River,Dry Maize,5240,90kg bag,70.45,96.7
+2024-06-17,Kitui,Kitui Central,Dry Maize,4741,90kg bag,55.69,110.2
+2024-06-17,Makueni,Wote,Dry Maize,"KES 4,226",90kg bag,,139.8
+2024-06-17,Nairobi,Wakulima,Dry Maize,4123,90kg bag,52.58,85.5
+2024-06-17,Nakuru,Nakuru Main,Dry Maize,"KES 4,967",90 kg,60.62,27.3
+2024-06-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,4931,90kg bag,61.2,122.8
+2024-06-24,Machakos,Machakos Town,Dry Maize,5208,90kg bag,67.51,93.1
+2024-06-24,Machakos,Athi River,Dry Maize,4849,90 kg,65.41,48.5
+2024-06-24,Kitui,Kitui Central,Dry Maize,4330,90 kg,54.43,31.4
+2024-06-24,Makueni,Wote,Dry Maize,5384,Bag (90kg),,42.5
+2024-06-24,Nairobi,Wakulima,Dry Maize,4389,90kg bag,55.69,72.0
+2024-06-24,Nakuru ,Nakuru Main,Dry Maize,4436,90 kg,57.59,135.2
+2024-06-24,Uasin Gishu,Eldoret Wholesale,Dry Maize,3872,90kg bag,47.87,
+2024-07-01,Machakos,Machakos Town,Dry Maize,"KES 4,316",90 kg,57.04,17.3
+2024-07-01,Machakos ,Athi River,Dry Maize,4995,90kg bag,59.16,144.1
+2024-07-01,Kitui,Kitui Central,Dry Maize,5300,90kg bag,64.98,121.4
+2024-07-01,Makueni,Wote,Dry Maize,5479,90kg bag,70.25,44.1
+2024-07-01,Nairobi,Wakulima,Dry Maize,4085,90 kg,52.77,15.1
+2024-07-01,Nakuru,Nakuru Main,Dry Maize,4280,90kg bag,53.76,125.5
+2024-07-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,5525,90 kg,73.11,140.3
+2024-07-08,Machakos,Machakos Town,Dry Maize,3841,90 kg,49.17,39.7
+2024-07-08,Machakos,Athi River,Dry Maize,"KES 5,349",90kg bag,69.96,28.6
+2024-07-08,Kitui,Kitui Central,Dry Maize,4621,90 kg,56.35,143.4
+2024-07-08,Makueni,Wote,Dry Maize,"KES 4,701",90kg bag,61.59,24.8
+2024-07-08,Nairobi,Wakulima,Dry Maize,"KES 4,189",90kg bag,53.69,36.8
+2024-07-08,Nakuru,Nakuru Main,Dry Maize,"KES 4,144",90-kg bag,53.4,52.5
+2024-07-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,4682,90 kg,58.81,40.9
+2024-07-15,Machakos,Machakos Town,Dry Maize,5044,90kg bag,61.32,68.0
+2024-07-15,Machakos,Athi River,Dry Maize,5349,90kg bag,67.72,120.6
+2024-07-15,Kitui,Kitui Central,Dry Maize,4460,90kg bag,,144.3
+2024-07-15,Makueni,Wote,Dry Maize,3963,90kg bag,51.19,27.8
+2024-07-15,Nairobi,Wakulima,Dry Maize,4345,90 kg,48.61,143.7
+2024-07-15,Nakuru,Nakuru Main,Dry Maize,3816,90-kg bag,47.43,45.4
+2024-07-15,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4031,90 kg,53.73,31.0
+2024-07-22,Machakos,Machakos Town,Dry Maize,5239,90kg bag,,122.3
+2024-07-22,Machakos,Athi River,Dry Maize,"KES 5,306",90-kg bag,65.39,35.9
+2024-07-22,Kitui,Kitui Central,Dry Maize,5314,90kg bag,71.8,82.1
+2024-07-22,Makueni,Wote,Dry Maize,5160,90 kg,61.67,100.1
+2024-07-22,Nairobi,Wakulima,Dry Maize,4177,Bag (90kg),57.88,78.0
+2024-07-22,Nakuru,Nakuru Main,Dry Maize,3959,Bag (90kg),48.03,70.5
+2024-07-22,Uasin Gishu,Eldoret Wholesale,Dry Maize,3923,90kg bag,51.2,11.8
+2024-07-29,Machakos,Machakos Town,Dry Maize,3921,Bag (90kg),52.61,101.9
+2024-07-29,Machakos,Athi River,Dry Maize,4002,90 kg,48.7,105.9
+2024-07-29,Kitui,Kitui Central,Dry Maize,4235,90kg bag,57.83,51.7
+2024-07-29,Makueni,Wote,Dry Maize,3818,90kg bag,48.85,88.1
+2024-07-29,Nairobi,Wakulima,Dry Maize,5407,90 kg,72.95,36.3
+2024-07-29,Nakuru,Nakuru Main,Dry Maize,4736,90kg bag,59.25,11.5
+2024-07-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,5456,90kg bag,67.05,72.8
+2024-08-05,Machakos ,Machakos Town,Dry Maize,4843,90kg bag,60.57,14.1
+2024-08-05,Machakos ,Athi River,Dry Maize,4741,90 kg,61.12,88.6
+2024-08-05,Kitui ,Kitui Central,Dry Maize,"KES 4,699",90kg bag,57.54,99.1
+2024-08-05,Makueni,Wote,Dry Maize,"KES 4,010",90kg bag,53.33,55.9
+2024-08-05,Nairobi,Wakulima,Dry Maize,5006,90kg bag,66.83,51.9
+2024-08-05,Nakuru,Nakuru Main,Dry Maize,3960,90 kg,49.55,92.3
+2024-08-05,Uasin Gishu,Eldoret Wholesale,Dry Maize,5328,90-kg bag,68.86,107.7
+2024-08-12,Machakos,Machakos Town,Dry Maize,4362,90kg bag,58.84,77.6
+2024-08-12,Machakos,Athi River,Dry Maize,5405,90kg bag,68.48,
+2024-08-12,Kitui ,Kitui Central,Dry Maize,4608,90 kg,60.07,
+2024-08-12,Makueni,Wote,Dry Maize,"KES 4,213",90kg bag,52.11,70.0
+2024-08-12,Nairobi,Wakulima,Dry Maize,5552,90kg bag,69.36,67.6
+2024-08-12,Nakuru,Nakuru Main,Dry Maize,"KES 5,342",90kg bag,68.22,65.1
+2024-08-12,Uasin Gishu,Eldoret Wholesale,Dry Maize,5489,90kg bag,72.52,95.2
+2024-08-19,Machakos,Machakos Town,Dry Maize,"KES 4,244",90kg bag,50.47,83.3
+2024-08-19,Machakos,Athi River,Dry Maize,5396,90kg bag,73.26,70.0
+2024-08-19,Kitui,Kitui Central,Dry Maize,5340,Bag (90kg),68.86,86.4
+2024-08-19,Makueni,Wote,Dry Maize,4143,90kg bag,53.16,86.3
+2024-08-19,Nairobi,Wakulima,Dry Maize,4891,90kg bag,62.43,43.4
+2024-08-19,Nakuru,Nakuru Main,Dry Maize,4800,90 kg,66.82,121.8
+2024-08-19,Uasin Gishu,Eldoret Wholesale,Dry Maize,4478,Bag (90kg),63.28,83.3
+2024-08-26,Machakos,Machakos Town,Dry Maize,4307,90kg bag,58.6,107.4
+2024-08-26,Machakos,Athi River,Dry Maize,5091,90 kg,66.66,93.7
+2024-08-26,Kitui ,Kitui Central,Dry Maize,4814,Bag (90kg),58.65,122.5
+2024-08-26,Makueni,Wote,Dry Maize,4613,90-kg bag,60.21,149.6
+2024-08-26,Nairobi,Wakulima,Dry Maize,5329,90kg bag,68.19,
+2024-08-26,Nakuru,Nakuru Main,Dry Maize,4444,90kg bag,55.98,148.3
+2024-08-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,5273,90kg bag,67.1,125.6
+2024-09-02,Machakos,Machakos Town,Dry Maize,3989,90kg bag,44.25,71.0
+2024-09-02,Machakos,Athi River,Dry Maize,4695,Bag (90kg),61.2,106.1
+2024-09-02,Kitui ,Kitui Central,Dry Maize,3955,90kg bag,50.46,
+2024-09-02,Makueni,Wote,Dry Maize,5402,90kg bag,,132.0
+2024-09-02,Nairobi,Wakulima,Dry Maize,4350,90kg bag,53.55,
+2024-09-02,Nakuru,Nakuru Main,Dry Maize,"KES 5,266",90kg bag,70.61,69.2
+2024-09-02,Uasin Gishu,Eldoret Wholesale,Dry Maize,4080,90kg bag,51.77,125.6
+2024-09-09,Machakos,Machakos Town,Dry Maize,5098,90kg bag,67.81,85.7
+2024-09-09,Machakos,Athi River,Dry Maize,4735,90kg bag,58.92,
+2024-09-09,Kitui,Kitui Central,Dry Maize,4800,90 kg,62.62,
+2024-09-09,Makueni,Wote,Dry Maize,4276,90kg bag,57.34,102.2
+2024-09-09,Nairobi,Wakulima,Dry Maize,5127,90kg bag,66.31,70.3
+2024-09-09,Nakuru,Nakuru Main,Dry Maize,4131,90kg bag,54.71,142.7
+2024-09-09,Uasin Gishu,Eldoret Wholesale,Dry Maize,5373,90 kg,68.88,143.1
+2024-09-16,Machakos,Machakos Town,Dry Maize,4985,90-kg bag,58.89,
+2024-09-16,Machakos,Athi River,Dry Maize,4372,90kg bag,54.58,95.5
+2024-09-16,Kitui ,Kitui Central,Dry Maize,4548,90kg bag,56.04,128.1
+2024-09-16,Makueni,Wote,Dry Maize,4664,Bag (90kg),61.04,96.4
+2024-09-16,Nairobi,Wakulima,Dry Maize,4655,Bag (90kg),67.67,
+2024-09-16,Nakuru,Nakuru Main,Dry Maize,"KES 4,706",90kg bag,56.0,53.3
+2024-09-16,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5124,90-kg bag,59.9,126.1
+2024-09-23,Machakos,Machakos Town,Dry Maize,5512,90 kg,69.63,115.2
+2024-09-23,Machakos,Athi River,Dry Maize,5560,90kg bag,68.37,134.3
+2024-09-23,Kitui,Kitui Central,Dry Maize,5089,90kg bag,66.38,124.8
+2024-09-23,Makueni,Wote,Dry Maize,4067,90kg bag,48.74,58.0
+2024-09-23,Nairobi,Wakulima,Dry Maize,5102,90kg bag,68.34,92.6
+2024-09-23,Nakuru,Nakuru Main,Dry Maize,5187,Bag (90kg),65.27,91.5
+2024-09-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,4941,90 kg,59.86,31.6
+2024-09-30,Machakos,Machakos Town,Dry Maize,5492,90kg bag,,24.2
+2024-09-30,Machakos ,Athi River,Dry Maize,4375,90kg bag,61.58,145.0
+2024-09-30,Kitui,Kitui Central,Dry Maize,"KES 5,595",90kg bag,70.11,30.6
+2024-09-30,Makueni,Wote,Dry Maize,4044,90-kg bag,53.76,144.6
+2024-09-30,Nairobi,Wakulima,Dry Maize,"KES 5,323",90-kg bag,67.01,33.6
+2024-09-30,Nakuru,Nakuru Main,Dry Maize,4620,90kg bag,55.84,145.3
+2024-09-30,Uasin Gishu,Eldoret Wholesale,Dry Maize,4158,90kg bag,50.51,39.0
+2024-10-07,Machakos,Machakos Town,Dry Maize,4308,Bag (90kg),58.35,
+2024-10-07,Machakos,Athi River,Dry Maize,4456,90-kg bag,62.81,74.2
+2024-10-07,Kitui,Kitui Central,Dry Maize,"KES 4,045",90 kg,52.49,74.8
+2024-10-07,Makueni,Wote,Dry Maize,"KES 5,127",90 kg,64.48,88.8
+2024-10-07,Nairobi,Wakulima,Dry Maize,4206,90kg bag,61.89,117.0
+2024-10-07,Nakuru ,Nakuru Main,Dry Maize,4571,90kg bag,57.6,51.8
+2024-10-07,Uasin Gishu ,Eldoret Wholesale,Dry Maize,"KES 4,639",Bag (90kg),61.06,106.3
+2024-10-14,Machakos,Machakos Town,Dry Maize,4482,90kg bag,48.45,112.6
+2024-10-14,Machakos,Athi River,Dry Maize,5109,90kg bag,,30.0
+2024-10-14,Kitui,Kitui Central,Dry Maize,5567,Bag (90kg),73.7,65.9
+2024-10-14,Makueni,Wote,Dry Maize,"KES 4,601",90kg bag,56.77,20.1
+2024-10-14,Nairobi,Wakulima,Dry Maize,"KES 5,396",Bag (90kg),68.52,77.0
+2024-10-14,Nakuru,Nakuru Main,Dry Maize,"KES 4,121",90kg bag,49.66,136.9
+2024-10-14,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4532,Bag (90kg),55.62,68.3
+2024-10-21,Machakos ,Machakos Town,Dry Maize,"KES 5,104",Bag (90kg),56.16,43.9
+2024-10-21,Machakos,Athi River,Dry Maize,4211,90kg bag,54.36,110.9
+2024-10-21,Kitui,Kitui Central,Dry Maize,4835,90kg bag,62.79,
+2024-10-21,Makueni,Wote,Dry Maize,4817,90 kg,58.71,57.7
+2024-10-21,Nairobi,Wakulima,Dry Maize,4739,90kg bag,59.73,134.9
+2024-10-21,Nakuru,Nakuru Main,Dry Maize,3940,90kg bag,48.01,
+2024-10-21,Uasin Gishu,Eldoret Wholesale,Dry Maize,4728,Bag (90kg),57.89,28.1
+2024-10-28,Machakos,Machakos Town,Dry Maize,5275,90kg bag,68.63,
+2024-10-28,Machakos,Athi River,Dry Maize,4924,90kg bag,62.7,
+2024-10-28,Kitui,Kitui Central,Dry Maize,5278,90kg bag,70.78,76.1
+2024-10-28,Makueni,Wote,Dry Maize,4751,90 kg,62.73,
+2024-10-28,Nairobi,Wakulima,Dry Maize,4339,90kg bag,54.95,
+2024-10-28,Nakuru,Nakuru Main,Dry Maize,3917,90kg bag,50.95,142.8
+2024-10-28,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4474,90kg bag,55.26,144.9
+2024-11-04,Machakos,Machakos Town,Dry Maize,5011,90 kg,58.94,20.7
+2024-11-04,Machakos,Athi River,Dry Maize,3974,90kg bag,49.79,82.5
+2024-11-04,Kitui,Kitui Central,Dry Maize,4555,90kg bag,63.85,126.2
+2024-11-04,Makueni ,Wote,Dry Maize,4782,90kg bag,63.46,44.5
+2024-11-04,Nairobi,Wakulima,Dry Maize,4211,90kg bag,56.35,100.2
+2024-11-04,Nakuru,Nakuru Main,Dry Maize,4339,90kg bag,60.76,54.1
+2024-11-04,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,162",Bag (90kg),62.06,50.7
+2024-11-11,Machakos,Machakos Town,Dry Maize,5523,90kg bag,75.31,42.2
+2024-11-11,Machakos ,Athi River,Dry Maize,"KES 4,047",90-kg bag,46.89,123.0
+2024-11-11,Kitui,Kitui Central,Dry Maize,4009,90kg bag,51.78,135.7
+2024-11-11,Makueni,Wote,Dry Maize,4419,90-kg bag,57.81,149.3
+2024-11-11,Nairobi,Wakulima,Dry Maize,5522,90kg bag,71.67,
+2024-11-11,Nakuru,Nakuru Main,Dry Maize,"KES 4,685",90kg bag,61.47,145.4
+2024-11-11,Uasin Gishu,Eldoret Wholesale,Dry Maize,4319,90kg bag,57.47,32.8
+2024-11-18,Machakos,Machakos Town,Dry Maize,5423,Bag (90kg),72.71,16.4
+2024-11-18,Machakos,Athi River,Dry Maize,3969,Bag (90kg),51.76,
+2024-11-18,Kitui ,Kitui Central,Dry Maize,5274,90kg bag,77.88,
+2024-11-18,Makueni,Wote,Dry Maize,5434,90kg bag,65.04,60.2
+2024-11-18,Nairobi,Wakulima,Dry Maize,4123,90-kg bag,50.27,70.4
+2024-11-18,Nakuru,Nakuru Main,Dry Maize,5079,90kg bag,67.14,135.2
+2024-11-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,4126,90kg bag,54.71,51.4
+2024-11-25,Machakos,Machakos Town,Dry Maize,3911,90kg bag,51.59,67.3
+2024-11-25,Machakos,Athi River,Dry Maize,5103,90kg bag,67.9,16.4
+2024-11-25,Kitui ,Kitui Central,Dry Maize,4427,90kg bag,58.8,83.2
+2024-11-25,Makueni,Wote,Dry Maize,5180,90kg bag,69.17,99.7
+2024-11-25,Nairobi,Wakulima,Dry Maize,4992,90kg bag,63.3,35.4
+2024-11-25,Nakuru,Nakuru Main,Dry Maize,5205,90-kg bag,62.38,68.0
+2024-11-25,Uasin Gishu,Eldoret Wholesale,Dry Maize,4737,90kg bag,59.14,
+2024-12-02,Machakos,Machakos Town,Dry Maize,4304,90-kg bag,52.22,146.1
+2024-12-02,Machakos,Athi River,Dry Maize,4694,90 kg,60.97,112.1
+2024-12-02,Kitui,Kitui Central,Dry Maize,5461,90kg bag,71.7,70.9
+2024-12-02,Makueni,Wote,Dry Maize,3991,90kg bag,47.65,13.5
+2024-12-02,Nairobi,Wakulima,Dry Maize,"KES 5,242",90 kg,66.8,145.4
+2024-12-02,Nakuru,Nakuru Main,Dry Maize,4138,90kg bag,54.24,143.3
+2024-12-02,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,415",Bag (90kg),67.76,45.1
+2024-12-09,Machakos,Machakos Town,Dry Maize,4174,Bag (90kg),50.75,
+2024-12-09,Machakos,Athi River,Dry Maize,"KES 3,912",90kg bag,48.89,44.6
+2024-12-09,Kitui ,Kitui Central,Dry Maize,4856,90kg bag,58.21,142.2
+2024-12-09,Makueni,Wote,Dry Maize,4964,90 kg,64.22,141.8
+2024-12-09,Nairobi,Wakulima,Dry Maize,4160,90kg bag,52.07,66.5
+2024-12-09,Nakuru,Nakuru Main,Dry Maize,4905,90kg bag,59.35,50.2
+2024-12-09,Uasin Gishu,Eldoret Wholesale,Dry Maize,4385,90kg bag,51.05,
+2024-12-16,Machakos,Machakos Town,Dry Maize,"KES 4,352",90kg bag,60.1,104.6
+2024-12-16,Machakos ,Athi River,Dry Maize,4280,90kg bag,58.43,26.4
+2024-12-16,Kitui,Kitui Central,Dry Maize,4065,90kg bag,53.73,141.1
+2024-12-16,Makueni,Wote,Dry Maize,4960,90-kg bag,67.28,146.8
+2024-12-16,Nairobi,Wakulima,Dry Maize,4456,90 kg,59.12,81.8
+2024-12-16,Nakuru,Nakuru Main,Dry Maize,4714,90 kg,59.27,37.9
+2024-12-16,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 3,950",90-kg bag,,69.5
+2024-12-23,Machakos,Machakos Town,Dry Maize,5137,90kg bag,64.91,79.1
+2024-12-23,Machakos ,Athi River,Dry Maize,4118,90kg bag,56.87,138.9
+2024-12-23,Kitui,Kitui Central,Dry Maize,4189,90kg bag,55.57,
+2024-12-23,Makueni,Wote,Dry Maize,5010,90 kg,66.51,19.0
+2024-12-23,Nairobi,Wakulima,Dry Maize,3862,90kg bag,,
+2024-12-23,Nakuru,Nakuru Main,Dry Maize,"KES 4,621",90kg bag,,82.3
+2024-12-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,4513,90 kg,54.65,11.1
+2024-12-30,Machakos,Machakos Town,Dry Maize,3939,90kg bag,43.9,137.9
+2024-12-30,Machakos,Athi River,Dry Maize,5212,90kg bag,68.2,65.0
+2024-12-30,Kitui,Kitui Central,Dry Maize,4810,90kg bag,65.8,11.9
+2024-12-30,Makueni,Wote,Dry Maize,4256,90 kg,54.7,33.1
+2024-12-30,Nairobi,Wakulima,Dry Maize,5439,90kg bag,67.47,133.4
+2024-12-30,Nakuru,Nakuru Main,Dry Maize,4433,90kg bag,59.53,18.1
+2024-12-30,Uasin Gishu,Eldoret Wholesale,Dry Maize,4557,90kg bag,59.57,105.1
+2025-01-06,Machakos,Machakos Town,Dry Maize,3974,90kg bag,55.45,
+2025-01-06,Machakos,Athi River,Dry Maize,"KES 4,038",90 kg,50.59,135.4
+2025-01-06,Kitui,Kitui Central,Dry Maize,4830,90-kg bag,59.35,67.1
+2025-01-06,Makueni,Wote,Dry Maize,4340,90 kg,56.3,56.7
+2025-01-06,Nairobi,Wakulima,Dry Maize,5568,90kg bag,76.42,
+2025-01-06,Nakuru,Nakuru Main,Dry Maize,4741,Bag (90kg),60.45,145.5
+2025-01-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,4531,90-kg bag,58.07,142.0
+2025-01-13,Machakos,Machakos Town,Dry Maize,5569,90kg bag,67.4,101.9
+2025-01-13,Machakos,Athi River,Dry Maize,4418,90kg bag,52.04,23.4
+2025-01-13,Kitui,Kitui Central,Dry Maize,5327,90kg bag,69.44,29.6
+2025-01-13,Makueni,Wote,Dry Maize,4284,90 kg,59.11,32.2
+2025-01-13,Nairobi,Wakulima,Dry Maize,5223,90kg bag,69.09,110.3
+2025-01-13,Nakuru,Nakuru Main,Dry Maize,3853,90kg bag,50.16,111.4
+2025-01-13,Uasin Gishu,Eldoret Wholesale,Dry Maize,4194,90kg bag,50.87,106.9
+2025-01-20,Machakos,Machakos Town,Dry Maize,4038,90 kg,56.15,49.0
+2025-01-20,Machakos,Athi River,Dry Maize,4722,90kg bag,63.47,107.9
+2025-01-20,Kitui,Kitui Central,Dry Maize,4003,90kg bag,52.76,125.4
+2025-01-20,Makueni,Wote,Dry Maize,"KES 4,627",90 kg,61.16,125.6
+2025-01-20,Nairobi,Wakulima,Dry Maize,5081,Bag (90kg),64.02,140.7
+2025-01-20,Nakuru,Nakuru Main,Dry Maize,4914,Bag (90kg),62.5,89.3
+2025-01-20,Uasin Gishu,Eldoret Wholesale,Dry Maize,4307,90kg bag,,15.5
+2025-01-27,Machakos ,Machakos Town,Dry Maize,4006,90kg bag,50.8,112.6
+2025-01-27,Machakos,Athi River,Dry Maize,5273,90kg bag,69.36,57.9
+2025-01-27,Kitui,Kitui Central,Dry Maize,5532,90kg bag,69.78,142.9
+2025-01-27,Makueni,Wote,Dry Maize,3988,90 kg,42.17,106.7
+2025-01-27,Nairobi,Wakulima,Dry Maize,5334,90kg bag,72.98,
+2025-01-27,Nakuru,Nakuru Main,Dry Maize,5577,Bag (90kg),72.33,107.9
+2025-01-27,Uasin Gishu,Eldoret Wholesale,Dry Maize,4579,90 kg,59.24,100.0
+2025-02-03,Machakos ,Machakos Town,Dry Maize,5261,90kg bag,69.38,21.8
+2025-02-03,Machakos,Athi River,Dry Maize,4439,90kg bag,59.22,122.0
+2025-02-03,Kitui,Kitui Central,Dry Maize,5079,90-kg bag,,75.1
+2025-02-03,Makueni,Wote,Dry Maize,4406,90kg bag,53.84,87.3
+2025-02-03,Nairobi,Wakulima,Dry Maize,"KES 4,921",90kg bag,57.07,33.4
+2025-02-03,Nakuru,Nakuru Main,Dry Maize,4284,90-kg bag,56.37,59.5
+2025-02-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,836",90kg bag,58.14,31.7
+2025-02-10,Machakos,Machakos Town,Dry Maize,"KES 5,294",Bag (90kg),70.2,53.6
+2025-02-10,Machakos,Athi River,Dry Maize,4935,Bag (90kg),67.56,49.5
+2025-02-10,Kitui,Kitui Central,Dry Maize,4025,90 kg,56.93,127.6
+2025-02-10,Makueni,Wote,Dry Maize,4648,90-kg bag,,88.3
+2025-02-10,Nairobi,Wakulima,Dry Maize,4861,90kg bag,61.29,37.5
+2025-02-10,Nakuru,Nakuru Main,Dry Maize,4648,90kg bag,62.55,145.8
+2025-02-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,4895,90 kg,63.2,125.6
+2025-02-17,Machakos,Machakos Town,Dry Maize,4205,90kg bag,50.44,141.4
+2025-02-17,Machakos,Athi River,Dry Maize,"KES 5,591",90kg bag,72.65,132.4
+2025-02-17,Kitui ,Kitui Central,Dry Maize,5310,90 kg,69.25,42.5
+2025-02-17,Makueni,Wote,Dry Maize,4731,90kg bag,60.36,43.3
+2025-02-17,Nairobi,Wakulima,Dry Maize,4498,90kg bag,54.75,81.8
+2025-02-17,Nakuru,Nakuru Main,Dry Maize,5109,90 kg,68.8,81.5
+2025-02-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,4427,90kg bag,55.47,129.4
+2025-02-24,Machakos,Machakos Town,Dry Maize,4448,90kg bag,56.7,95.2
+2025-02-24,Machakos ,Athi River,Dry Maize,3871,90 kg,48.19,101.2
+2025-02-24,Kitui ,Kitui Central,Dry Maize,5304,90 kg,70.0,83.5
+2025-02-24,Makueni,Wote,Dry Maize,5056,90kg bag,64.95,
+2025-02-24,Nairobi,Wakulima,Dry Maize,4670,90 kg,56.16,48.8
+2025-02-24,Nakuru,Nakuru Main,Dry Maize,5122,90kg bag,68.89,121.2
+2025-02-24,Uasin Gishu,Eldoret Wholesale,Dry Maize,4051,90kg bag,46.84,62.2
+2025-03-03,Machakos,Machakos Town,Dry Maize,4699,90kg bag,58.87,72.8
+2025-03-03,Machakos,Athi River,Dry Maize,5334,90kg bag,74.38,124.4
+2025-03-03,Kitui,Kitui Central,Dry Maize,"KES 5,106",90kg bag,64.13,133.8
+2025-03-03,Makueni,Wote,Dry Maize,4651,90kg bag,57.54,130.8
+2025-03-03,Nairobi,Wakulima,Dry Maize,"KES 4,427",90 kg,55.6,93.5
+2025-03-03,Nakuru ,Nakuru Main,Dry Maize,5125,90kg bag,,24.8
+2025-03-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,4538,90 kg,54.34,
+2025-03-10,Machakos,Machakos Town,Dry Maize,4302,90 kg,52.78,108.0
+2025-03-10,Machakos,Athi River,Dry Maize,4618,90kg bag,58.26,141.4
+2025-03-10,Kitui,Kitui Central,Dry Maize,5261,90 kg,65.5,148.5
+2025-03-10,Makueni,Wote,Dry Maize,4184,90kg bag,52.2,59.1
+2025-03-10,Nairobi,Wakulima,Dry Maize,3807,90kg bag,45.09,35.6
+2025-03-10,Nakuru,Nakuru Main,Dry Maize,3871,Bag (90kg),50.05,26.6
+2025-03-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,781",90kg bag,63.01,56.5
+2025-03-17,Machakos,Machakos Town,Dry Maize,5072,90kg bag,65.26,102.6
+2025-03-17,Machakos,Athi River,Dry Maize,5160,90kg bag,,144.7
+2025-03-17,Kitui ,Kitui Central,Dry Maize,4154,90kg bag,53.58,35.4
+2025-03-17,Makueni ,Wote,Dry Maize,"KES 3,986",90-kg bag,49.62,145.6
+2025-03-17,Nairobi,Wakulima,Dry Maize,3958,90kg bag,48.96,98.2
+2025-03-17,Nakuru,Nakuru Main,Dry Maize,4597,90kg bag,56.54,85.6
+2025-03-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,5457,90kg bag,75.18,86.6
+2025-03-24,Machakos,Machakos Town,Dry Maize,4256,90kg bag,53.71,65.3
+2025-03-24,Machakos,Athi River,Dry Maize,4608,Bag (90kg),58.62,96.7
+2025-03-24,Kitui,Kitui Central,Dry Maize,4772,90kg bag,65.92,97.2
+2025-03-24,Makueni,Wote,Dry Maize,4998,90kg bag,67.08,71.9
+2025-03-24,Nairobi,Wakulima,Dry Maize,5409,90kg bag,,42.7
+2025-03-24,Nakuru,Nakuru Main,Dry Maize,5346,90-kg bag,67.64,15.0
+2025-03-24,Uasin Gishu ,Eldoret Wholesale,Dry Maize,"KES 4,777",90kg bag,,52.9
+2025-03-31,Machakos ,Machakos Town,Dry Maize,4103,90kg bag,56.38,89.3
+2025-03-31,Machakos,Athi River,Dry Maize,3871,90kg bag,47.57,41.7
+2025-03-31,Kitui,Kitui Central,Dry Maize,"KES 4,780",90kg bag,61.29,49.2
+2025-03-31,Makueni,Wote,Dry Maize,4769,Bag (90kg),63.35,39.2
+2025-03-31,Nairobi,Wakulima,Dry Maize,3964,90kg bag,53.4,105.2
+2025-03-31,Nakuru,Nakuru Main,Dry Maize,4764,90kg bag,64.11,53.7
+2025-03-31,Uasin Gishu,Eldoret Wholesale,Dry Maize,4640,90kg bag,57.55,125.4
+2025-04-07,Machakos,Machakos Town,Dry Maize,5340,90 kg,72.44,148.4
+2025-04-07,Machakos,Athi River,Dry Maize,4970,90kg bag,60.08,117.5
+2025-04-07,Kitui,Kitui Central,Dry Maize,3986,90kg bag,53.07,125.3
+2025-04-07,Makueni,Wote,Dry Maize,"KES 4,686",90 kg,54.23,37.3
+2025-04-07,Nairobi,Wakulima,Dry Maize,4358,90 kg,57.44,128.6
+2025-04-07,Nakuru ,Nakuru Main,Dry Maize,3811,Bag (90kg),47.51,
+2025-04-07,Uasin Gishu,Eldoret Wholesale,Dry Maize,5419,90 kg,71.43,18.4
+2025-04-14,Machakos,Machakos Town,Dry Maize,5543,90kg bag,67.72,93.2
+2025-04-14,Machakos,Athi River,Dry Maize,3811,90kg bag,45.48,145.1
+2025-04-14,Kitui,Kitui Central,Dry Maize,5108,90kg bag,71.0,127.6
+2025-04-14,Makueni,Wote,Dry Maize,5551,90-kg bag,67.73,136.0
+2025-04-14,Nairobi,Wakulima,Dry Maize,4528,Bag (90kg),57.02,21.4
+2025-04-14,Nakuru,Nakuru Main,Dry Maize,4764,90 kg,60.16,58.0
+2025-04-14,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,350",Bag (90kg),68.5,112.1
+2025-04-21,Machakos,Machakos Town,Dry Maize,"KES 4,005",90kg bag,48.43,144.1
+2025-04-21,Machakos,Athi River,Dry Maize,4090,90kg bag,56.33,41.6
+2025-04-21,Kitui,Kitui Central,Dry Maize,"KES 3,871",90kg bag,49.37,123.7
+2025-04-21,Makueni,Wote,Dry Maize,3857,90kg bag,50.11,61.1
+2025-04-21,Nairobi,Wakulima,Dry Maize,"KES 3,987",90kg bag,54.25,96.7
+2025-04-21,Nakuru,Nakuru Main,Dry Maize,4452,90 kg,60.07,41.6
+2025-04-21,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5023,90kg bag,71.85,92.0
+2025-04-28,Machakos,Machakos Town,Dry Maize,4238,90 kg,52.23,45.3
+2025-04-28,Machakos ,Athi River,Dry Maize,4541,90kg bag,58.14,149.5
+2025-04-28,Kitui,Kitui Central,Dry Maize,5489,90kg bag,71.37,146.5
+2025-04-28,Makueni,Wote,Dry Maize,4180,90kg bag,50.52,45.1
+2025-04-28,Nairobi,Wakulima,Dry Maize,4590,90kg bag,63.54,
+2025-04-28,Nakuru,Nakuru Main,Dry Maize,4581,90 kg,55.08,102.4
+2025-04-28,Uasin Gishu,Eldoret Wholesale,Dry Maize,4375,90kg bag,50.84,37.7
+2025-05-05,Machakos,Machakos Town,Dry Maize,4129,90 kg,47.37,112.8
+2025-05-05,Machakos ,Athi River,Dry Maize,4226,90kg bag,,45.6
+2025-05-05,Kitui,Kitui Central,Dry Maize,4091,90kg bag,54.86,70.6
+2025-05-05,Makueni,Wote,Dry Maize,4059,90kg bag,52.28,54.1
+2025-05-05,Nairobi,Wakulima,Dry Maize,4889,Bag (90kg),60.35,34.8
+2025-05-05,Nakuru,Nakuru Main,Dry Maize,4381,Bag (90kg),58.68,
+2025-05-05,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 3,832",90 kg,44.33,59.2
+2025-05-12,Machakos,Machakos Town,Dry Maize,4569,90kg bag,61.84,40.3
+2025-05-12,Machakos,Athi River,Dry Maize,"KES 4,163",Bag (90kg),54.17,98.4
+2025-05-12,Kitui,Kitui Central,Dry Maize,4848,90kg bag,65.57,12.0
+2025-05-12,Makueni,Wote,Dry Maize,4232,90kg bag,54.51,21.2
+2025-05-12,Nairobi,Wakulima,Dry Maize,"KES 4,724",90kg bag,58.52,129.7
+2025-05-12,Nakuru ,Nakuru Main,Dry Maize,5172,90kg bag,65.49,89.2
+2025-05-12,Uasin Gishu,Eldoret Wholesale,Dry Maize,5319,90kg bag,68.53,136.4
+2025-05-19,Machakos,Machakos Town,Dry Maize,3912,90kg bag,48.62,44.4
+2025-05-19,Machakos,Athi River,Dry Maize,"KES 4,688",90 kg,59.25,50.0
+2025-05-19,Kitui ,Kitui Central,Dry Maize,"KES 5,138",90 kg,62.31,34.8
+2025-05-19,Makueni,Wote,Dry Maize,"KES 4,793",90-kg bag,66.55,33.7
+2025-05-19,Nairobi ,Wakulima,Dry Maize,3947,90 kg,51.97,59.0
+2025-05-19,Nakuru,Nakuru Main,Dry Maize,5538,90kg bag,76.57,98.3
+2025-05-19,Uasin Gishu,Eldoret Wholesale,Dry Maize,4738,90kg bag,58.75,122.6
+2025-05-26,Machakos,Machakos Town,Dry Maize,4052,90-kg bag,55.01,96.6
+2025-05-26,Machakos,Athi River,Dry Maize,4819,90kg bag,58.68,137.0
+2025-05-26,Kitui,Kitui Central,Dry Maize,5312,90kg bag,72.76,93.1
+2025-05-26,Makueni ,Wote,Dry Maize,5286,90kg bag,73.83,119.2
+2025-05-26,Nairobi,Wakulima,Dry Maize,4139,90kg bag,57.67,28.3
+2025-05-26,Nakuru ,Nakuru Main,Dry Maize,"KES 5,000",90kg bag,69.32,50.0
+2025-05-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,349",90kg bag,51.15,
+2025-06-02,Machakos ,Machakos Town,Dry Maize,5354,90kg bag,70.15,90.8
+2025-06-02,Machakos,Athi River,Dry Maize,4144,90 kg,45.42,55.8
+2025-06-02,Kitui,Kitui Central,Dry Maize,4280,90kg bag,52.24,21.4
+2025-06-02,Makueni ,Wote,Dry Maize,4350,90 kg,52.38,94.7
+2025-06-02,Nairobi,Wakulima,Dry Maize,4315,90 kg,54.81,149.6
+2025-06-02,Nakuru ,Nakuru Main,Dry Maize,5153,90kg bag,68.84,10.1
+2025-06-02,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,284",Bag (90kg),60.89,67.5
+2025-06-09,Machakos,Machakos Town,Dry Maize,4590,Bag (90kg),58.65,31.2
+2025-06-09,Machakos,Athi River,Dry Maize,4598,90kg bag,59.9,53.7
+2025-06-09,Kitui ,Kitui Central,Dry Maize,4393,90kg bag,53.67,139.0
+2025-06-09,Makueni,Wote,Dry Maize,4183,90kg bag,54.71,57.5
+2025-06-09,Nairobi,Wakulima,Dry Maize,4967,90kg bag,64.27,52.3
+2025-06-09,Nakuru,Nakuru Main,Dry Maize,4772,90 kg,62.29,
+2025-06-09,Uasin Gishu,Eldoret Wholesale,Dry Maize,4485,90kg bag,56.59,29.2
+2025-06-16,Machakos,Machakos Town,Dry Maize,"KES 5,425",90 kg,68.14,21.5
+2025-06-16,Machakos,Athi River,Dry Maize,4507,90 kg,59.67,22.3
+2025-06-16,Kitui,Kitui Central,Dry Maize,4910,Bag (90kg),58.7,126.0
+2025-06-16,Makueni,Wote,Dry Maize,4023,90-kg bag,52.04,29.9
+2025-06-16,Nairobi,Wakulima,Dry Maize,4691,90kg bag,,47.9
+2025-06-16,Nakuru,Nakuru Main,Dry Maize,4186,Bag (90kg),52.82,137.6
+2025-06-16,Uasin Gishu,Eldoret Wholesale,Dry Maize,4580,90kg bag,54.42,81.1
+2025-06-23,Machakos,Machakos Town,Dry Maize,"KES 4,349",90kg bag,51.81,75.5
+2025-06-23,Machakos,Athi River,Dry Maize,5268,90kg bag,68.8,81.8
+2025-06-23,Kitui ,Kitui Central,Dry Maize,5305,90kg bag,71.0,89.9
+2025-06-23,Makueni ,Wote,Dry Maize,5536,90kg bag,72.17,140.0
+2025-06-23,Nairobi,Wakulima,Dry Maize,3896,90kg bag,51.82,42.8
+2025-06-23,Nakuru,Nakuru Main,Dry Maize,"KES 5,262",90-kg bag,71.0,130.6
+2025-06-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,4718,90kg bag,58.94,88.7
+2025-06-30,Machakos,Machakos Town,Dry Maize,4381,90kg bag,56.84,124.6
+2025-06-30,Machakos,Athi River,Dry Maize,4951,90kg bag,61.57,35.9
+2025-06-30,Kitui,Kitui Central,Dry Maize,4781,90kg bag,55.6,25.0
+2025-06-30,Makueni,Wote,Dry Maize,5366,90 kg,64.88,138.2
+2025-06-30,Nairobi,Wakulima,Dry Maize,5391,90kg bag,74.01,26.2
+2025-06-30,Nakuru,Nakuru Main,Dry Maize,5435,90-kg bag,68.94,50.5
+2025-06-30,Uasin Gishu,Eldoret Wholesale,Dry Maize,4613,90 kg,65.35,101.7
+2025-07-07,Machakos,Machakos Town,Dry Maize,4672,90kg bag,55.91,15.6
+2025-07-07,Machakos,Athi River,Dry Maize,5233,90kg bag,69.26,81.1
+2025-07-07,Kitui,Kitui Central,Dry Maize,4605,90 kg,60.19,141.3
+2025-07-07,Makueni,Wote,Dry Maize,5486,Bag (90kg),71.51,96.7
+2025-07-07,Nairobi,Wakulima,Dry Maize,4913,Bag (90kg),63.43,52.0
+2025-07-07,Nakuru,Nakuru Main,Dry Maize,5539,90 kg,74.05,25.4
+2025-07-07,Uasin Gishu,Eldoret Wholesale,Dry Maize,5022,90kg bag,62.78,111.5
+2025-07-14,Machakos,Machakos Town,Dry Maize,3975,90kg bag,49.18,53.1
+2025-07-14,Machakos,Athi River,Dry Maize,"KES 5,160",90kg bag,65.14,49.5
+2025-07-14,Kitui,Kitui Central,Dry Maize,4385,90kg bag,52.74,93.6
+2025-07-14,Makueni,Wote,Dry Maize,"KES 3,906",90kg bag,45.48,78.2
+2025-07-14,Nairobi,Wakulima,Dry Maize,4977,90-kg bag,61.87,123.7
+2025-07-14,Nakuru,Nakuru Main,Dry Maize,4630,90 kg,50.46,57.5
+2025-07-14,Uasin Gishu,Eldoret Wholesale,Dry Maize,4667,Bag (90kg),57.97,60.0
+2025-07-21,Machakos,Machakos Town,Dry Maize,3947,90 kg,50.04,77.6
+2025-07-21,Machakos,Athi River,Dry Maize,"KES 5,398",90kg bag,73.77,96.6
+2025-07-21,Kitui ,Kitui Central,Dry Maize,4693,90kg bag,55.55,43.9
+2025-07-21,Makueni,Wote,Dry Maize,4590,90kg bag,60.6,68.6
+2025-07-21,Nairobi,Wakulima,Dry Maize,5162,90 kg,67.26,124.2
+2025-07-21,Nakuru ,Nakuru Main,Dry Maize,5557,90kg bag,77.34,105.3
+2025-07-21,Uasin Gishu,Eldoret Wholesale,Dry Maize,3942,90kg bag,54.56,39.6
+2025-07-28,Machakos,Machakos Town,Dry Maize,4204,Bag (90kg),54.95,37.0
+2025-07-28,Machakos,Athi River,Dry Maize,3918,90kg bag,50.65,89.0
+2025-07-28,Kitui,Kitui Central,Dry Maize,4315,90 kg,56.83,35.7
+2025-07-28,Makueni,Wote,Dry Maize,4436,90 kg,57.59,82.7
+2025-07-28,Nairobi,Wakulima,Dry Maize,5345,90kg bag,66.63,29.2
+2025-07-28,Nakuru,Nakuru Main,Dry Maize,4277,90-kg bag,58.64,
+2025-07-28,Uasin Gishu,Eldoret Wholesale,Dry Maize,5379,Bag (90kg),66.94,49.4
+2025-08-04,Machakos,Machakos Town,Dry Maize,3838,90kg bag,49.55,37.3
+2025-08-04,Machakos,Athi River,Dry Maize,3909,90kg bag,49.87,110.7
+2025-08-04,Kitui ,Kitui Central,Dry Maize,4254,Bag (90kg),55.49,90.9
+2025-08-04,Makueni,Wote,Dry Maize,5581,90kg bag,73.99,89.0
+2025-08-04,Nairobi,Wakulima,Dry Maize,4984,90 kg,64.5,116.1
+2025-08-04,Nakuru,Nakuru Main,Dry Maize,5133,90kg bag,62.74,
+2025-08-04,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5162,Bag (90kg),65.36,
+2025-08-11,Machakos,Machakos Town,Dry Maize,4467,Bag (90kg),60.28,32.5
+2025-08-11,Machakos,Athi River,Dry Maize,5220,Bag (90kg),65.73,137.2
+2025-08-11,Kitui,Kitui Central,Dry Maize,4863,90kg bag,59.01,149.4
+2025-08-11,Makueni,Wote,Dry Maize,4295,90kg bag,56.02,148.0
+2025-08-11,Nairobi ,Wakulima,Dry Maize,4415,90kg bag,56.24,137.9
+2025-08-11,Nakuru,Nakuru Main,Dry Maize,5517,90kg bag,68.98,123.8
+2025-08-11,Uasin Gishu,Eldoret Wholesale,Dry Maize,4898,90kg bag,66.29,113.4
+2025-08-18,Machakos,Machakos Town,Dry Maize,5596,90kg bag,68.41,
+2025-08-18,Machakos,Athi River,Dry Maize,4603,90kg bag,57.93,55.7
+2025-08-18,Kitui,Kitui Central,Dry Maize,3904,90kg bag,53.95,42.3
+2025-08-18,Makueni,Wote,Dry Maize,4665,90kg bag,56.13,93.7
+2025-08-18,Nairobi,Wakulima,Dry Maize,4093,90kg bag,47.25,28.3
+2025-08-18,Nakuru,Nakuru Main,Dry Maize,"KES 4,181",90kg bag,53.26,121.7
+2025-08-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,4710,90-kg bag,61.2,130.9
+2025-08-25,Machakos,Machakos Town,Dry Maize,4553,90kg bag,51.58,17.6
+2025-08-25,Machakos,Athi River,Dry Maize,4467,90kg bag,61.04,34.6
+2025-08-25,Kitui,Kitui Central,Dry Maize,4219,90 kg,49.28,148.3
+2025-08-25,Makueni,Wote,Dry Maize,3841,90kg bag,48.6,83.0
+2025-08-25,Nairobi ,Wakulima,Dry Maize,5016,90kg bag,63.8,11.5
+2025-08-25,Nakuru,Nakuru Main,Dry Maize,4815,90kg bag,58.2,135.2
+2025-08-25,Uasin Gishu,Eldoret Wholesale,Dry Maize,4018,90-kg bag,51.37,91.2
+2025-09-01,Machakos,Machakos Town,Dry Maize,5533,Bag (90kg),72.38,72.7
+2025-09-01,Machakos,Athi River,Dry Maize,4976,90kg bag,61.01,56.9
+2025-09-01,Kitui,Kitui Central,Dry Maize,4772,90 kg,57.6,95.4
+2025-09-01,Makueni,Wote,Dry Maize,4114,90kg bag,51.55,85.4
+2025-09-01,Nairobi ,Wakulima,Dry Maize,4904,90kg bag,57.73,18.3
+2025-09-01,Nakuru,Nakuru Main,Dry Maize,3995,90 kg,51.88,63.8
+2025-09-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,158",90kg bag,,57.3
+2025-09-08,Machakos,Machakos Town,Dry Maize,5483,90kg bag,,145.4
+2025-09-08,Machakos,Athi River,Dry Maize,4850,90 kg,62.07,102.4
+2025-09-08,Kitui,Kitui Central,Dry Maize,"KES 4,731",90kg bag,63.44,58.7
+2025-09-08,Makueni,Wote,Dry Maize,4827,90kg bag,60.82,26.7
+2025-09-08,Nairobi,Wakulima,Dry Maize,"KES 4,692",90kg bag,55.23,53.3
+2025-09-08,Nakuru,Nakuru Main,Dry Maize,4707,90 kg,56.48,10.4
+2025-09-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,5075,90kg bag,64.84,124.1
+2025-09-15,Machakos ,Machakos Town,Dry Maize,5180,90kg bag,65.44,58.7
+2025-09-15,Machakos,Athi River,Dry Maize,5342,Bag (90kg),69.03,
+2025-09-15,Kitui,Kitui Central,Dry Maize,4516,90kg bag,56.24,19.5
+2025-09-15,Makueni,Wote,Dry Maize,4109,90kg bag,49.93,42.5
+2025-09-15,Nairobi,Wakulima,Dry Maize,"KES 4,569",90kg bag,57.96,123.6
+2025-09-15,Nakuru,Nakuru Main,Dry Maize,4026,90-kg bag,54.86,10.3
+2025-09-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,4316,90 kg,62.65,13.8
+2025-09-22,Machakos,Machakos Town,Dry Maize,5060,90kg bag,64.71,139.9
+2025-09-22,Machakos,Athi River,Dry Maize,4194,90kg bag,49.56,71.4
+2025-09-22,Kitui,Kitui Central,Dry Maize,4168,90kg bag,51.47,70.9
+2025-09-22,Makueni,Wote,Dry Maize,4278,90kg bag,60.96,91.9
+2025-09-22,Nairobi,Wakulima,Dry Maize,5433,90kg bag,66.51,20.5
+2025-09-22,Nakuru,Nakuru Main,Dry Maize,5137,90kg bag,65.4,125.0
+2025-09-22,Uasin Gishu,Eldoret Wholesale,Dry Maize,5388,90 kg,69.82,46.9
+2025-09-29,Machakos,Machakos Town,Dry Maize,3863,90 kg,47.76,58.7
+2025-09-29,Machakos,Athi River,Dry Maize,"KES 3,865",Bag (90kg),53.38,71.5
+2025-09-29,Kitui ,Kitui Central,Dry Maize,4502,Bag (90kg),61.49,75.7
+2025-09-29,Makueni,Wote,Dry Maize,3988,90kg bag,52.98,124.4
+2025-09-29,Nairobi,Wakulima,Dry Maize,4804,90kg bag,60.91,11.7
+2025-09-29,Nakuru,Nakuru Main,Dry Maize,4058,Bag (90kg),46.51,69.0
+2025-09-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,4997,90kg bag,57.16,98.3
+2025-10-06,Machakos ,Machakos Town,Dry Maize,4652,90kg bag,58.8,91.5
+2025-10-06,Machakos,Athi River,Dry Maize,5415,90kg bag,72.73,83.6
+2025-10-06,Kitui ,Kitui Central,Dry Maize,4231,Bag (90kg),50.59,97.6
+2025-10-06,Makueni,Wote,Dry Maize,5043,90 kg,60.44,52.8
+2025-10-06,Nairobi,Wakulima,Dry Maize,4896,90-kg bag,59.12,119.4
+2025-10-06,Nakuru,Nakuru Main,Dry Maize,4305,Bag (90kg),56.41,12.7
+2025-10-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,4562,90kg bag,54.71,138.1
+2025-10-13,Machakos,Machakos Town,Dry Maize,"KES 4,248",90-kg bag,55.14,45.5
+2025-10-13,Machakos,Athi River,Dry Maize,5030,90 kg,68.67,50.9
+2025-10-13,Kitui,Kitui Central,Dry Maize,4926,90kg bag,64.56,37.5
+2025-10-13,Makueni,Wote,Dry Maize,3975,90-kg bag,52.76,23.0
+2025-10-13,Nairobi,Wakulima,Dry Maize,"KES 4,238",90kg bag,53.94,37.6
+2025-10-13,Nakuru,Nakuru Main,Dry Maize,3980,90kg bag,48.97,17.7
+2025-10-13,Uasin Gishu,Eldoret Wholesale,Dry Maize,5382,90kg bag,67.29,148.8
+2025-10-20,Machakos,Machakos Town,Dry Maize,3900,90kg bag,55.67,41.3
+2025-10-20,Machakos,Athi River,Dry Maize,4946,90kg bag,62.16,116.7
+2025-10-20,Kitui ,Kitui Central,Dry Maize,4929,90-kg bag,61.54,58.9
+2025-10-20,Makueni,Wote,Dry Maize,4189,90kg bag,60.41,42.9
+2025-10-20,Nairobi,Wakulima,Dry Maize,5093,Bag (90kg),67.53,
+2025-10-20,Nakuru,Nakuru Main,Dry Maize,4686,90-kg bag,60.35,146.8
+2025-10-20,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,448",90 kg,52.39,65.9
+2025-10-27,Machakos,Machakos Town,Dry Maize,4314,90kg bag,55.46,19.8
+2025-10-27,Machakos ,Athi River,Dry Maize,4608,90 kg,56.83,147.7
+2025-10-27,Kitui,Kitui Central,Dry Maize,5206,90 kg,68.81,76.4
+2025-10-27,Makueni,Wote,Dry Maize,3925,90kg bag,52.79,31.6
+2025-10-27,Nairobi,Wakulima,Dry Maize,"KES 3,899",90kg bag,49.08,54.8
+2025-10-27,Nakuru ,Nakuru Main,Dry Maize,5087,90-kg bag,66.84,142.4
+2025-10-27,Uasin Gishu,Eldoret Wholesale,Dry Maize,3825,90kg bag,46.27,132.9
+2025-11-03,Machakos,Machakos Town,Dry Maize,5432,Bag (90kg),65.34,46.2
+2025-11-03,Machakos ,Athi River,Dry Maize,"KES 4,068",90kg bag,53.22,108.3
+2025-11-03,Kitui,Kitui Central,Dry Maize,4728,90kg bag,62.86,78.9
+2025-11-03,Makueni,Wote,Dry Maize,"KES 4,641",90kg bag,59.69,140.9
+2025-11-03,Nairobi,Wakulima,Dry Maize,5101,90kg bag,61.22,140.7
+2025-11-03,Nakuru,Nakuru Main,Dry Maize,5009,90kg bag,63.49,92.0
+2025-11-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,4122,90kg bag,52.13,81.3
+2025-11-10,Machakos,Machakos Town,Dry Maize,5116,90-kg bag,59.83,43.5
+2025-11-10,Machakos,Athi River,Dry Maize,"KES 4,813",90kg bag,60.89,149.7
+2025-11-10,Kitui,Kitui Central,Dry Maize,5366,90kg bag,70.51,
+2025-11-10,Makueni,Wote,Dry Maize,5146,Bag (90kg),62.87,15.2
+2025-11-10,Nairobi,Wakulima,Dry Maize,5363,90-kg bag,69.5,38.1
+2025-11-10,Nakuru,Nakuru Main,Dry Maize,4525,90kg bag,51.89,85.1
+2025-11-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,346",90kg bag,71.56,11.9
+2025-11-17,Machakos,Machakos Town,Dry Maize,4740,90 kg,62.17,124.7
+2025-11-17,Machakos,Athi River,Dry Maize,5336,Bag (90kg),71.23,20.2
+2025-11-17,Kitui,Kitui Central,Dry Maize,"KES 5,028",90kg bag,66.1,103.7
+2025-11-17,Makueni ,Wote,Dry Maize,"KES 3,815",90kg bag,49.27,46.8
+2025-11-17,Nairobi,Wakulima,Dry Maize,4614,90kg bag,59.05,48.4
+2025-11-17,Nakuru,Nakuru Main,Dry Maize,5031,Bag (90kg),63.9,69.9
+2025-11-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,823",90kg bag,62.39,60.2
+2025-11-24,Machakos,Machakos Town,Dry Maize,4404,Bag (90kg),59.59,126.5
+2025-11-24,Machakos,Athi River,Dry Maize,5353,90-kg bag,69.59,147.0
+2025-11-24,Kitui,Kitui Central,Dry Maize,4143,90kg bag,53.58,
+2025-11-24,Makueni,Wote,Dry Maize,5095,90kg bag,64.39,79.7
+2025-11-24,Nairobi,Wakulima,Dry Maize,5106,90kg bag,63.77,57.4
+2025-11-24,Nakuru,Nakuru Main,Dry Maize,4568,90-kg bag,55.17,70.0
+2025-11-24,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5138,90kg bag,72.79,142.1
+2025-12-01,Machakos,Machakos Town,Dry Maize,4301,90kg bag,54.92,38.3
+2025-12-01,Machakos,Athi River,Dry Maize,"KES 4,659",90-kg bag,62.13,31.2
+2025-12-01,Kitui,Kitui Central,Dry Maize,4214,90kg bag,53.25,25.7
+2025-12-01,Makueni,Wote,Dry Maize,3858,90kg bag,50.04,33.5
+2025-12-01,Nairobi,Wakulima,Dry Maize,"KES 4,361",90kg bag,52.81,114.4
+2025-12-01,Nakuru,Nakuru Main,Dry Maize,"KES 4,838",Bag (90kg),63.36,45.7
+2025-12-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,4645,90kg bag,65.15,32.3
+2025-12-08,Machakos,Machakos Town,Dry Maize,5341,90kg bag,70.82,39.4
+2025-12-08,Machakos,Athi River,Dry Maize,"KES 4,446",90kg bag,54.66,150.0
+2025-12-08,Kitui,Kitui Central,Dry Maize,4774,90kg bag,60.27,
+2025-12-08,Makueni,Wote,Dry Maize,"KES 4,179",Bag (90kg),48.25,120.5
+2025-12-08,Nairobi,Wakulima,Dry Maize,5471,90kg bag,70.38,31.5
+2025-12-08,Nakuru,Nakuru Main,Dry Maize,4926,90kg bag,61.13,
+2025-12-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 3,852",90-kg bag,52.9,87.6
+2025-12-15,Machakos,Machakos Town,Dry Maize,5558,90-kg bag,69.73,41.0
+2025-12-15,Machakos,Athi River,Dry Maize,4202,90 kg,50.68,22.1
+2025-12-15,Kitui,Kitui Central,Dry Maize,5226,90kg bag,64.51,148.7
+2025-12-15,Makueni,Wote,Dry Maize,"KES 4,551",Bag (90kg),57.14,147.4
+2025-12-15,Nairobi,Wakulima,Dry Maize,5442,Bag (90kg),70.05,118.5
+2025-12-15,Nakuru,Nakuru Main,Dry Maize,5581,Bag (90kg),72.64,109.9
+2025-12-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,4088,90kg bag,52.49,110.5
+2025-12-22,Machakos,Machakos Town,Dry Maize,5133,Bag (90kg),62.75,119.6
+2025-12-22,Machakos,Athi River,Dry Maize,"KES 4,831",90 kg,62.44,128.8
+2025-12-22,Kitui,Kitui Central,Dry Maize,4984,90 kg,60.07,90.8
+2025-12-22,Makueni,Wote,Dry Maize,"KES 4,652",90 kg,56.65,54.2
+2025-12-22,Nairobi,Wakulima,Dry Maize,4706,90kg bag,,44.0
+2025-12-22,Nakuru,Nakuru Main,Dry Maize,"KES 4,798",90kg bag,62.36,122.8
+2025-12-22,Uasin Gishu,Eldoret Wholesale,Dry Maize,4903,90kg bag,63.34,11.4
+2025-12-29,Machakos,Machakos Town,Dry Maize,4818,90-kg bag,61.69,
+2025-12-29,Machakos,Athi River,Dry Maize,4463,90kg bag,58.51,80.5
+2025-12-29,Kitui ,Kitui Central,Dry Maize,5368,90 kg,70.12,125.9
+2025-12-29,Makueni,Wote,Dry Maize,"KES 4,039",90kg bag,51.04,112.6
+2025-12-29,Nairobi,Wakulima,Dry Maize,5303,90 kg,69.26,148.7
+2025-12-29,Nakuru,Nakuru Main,Dry Maize,5061,90kg bag,59.59,38.5
+2025-12-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,3819,90 kg,47.5,38.7
+2026-01-05,Machakos,Machakos Town,Dry Maize,4302,90kg bag,55.03,80.7
+2026-01-05,Machakos,Athi River,Dry Maize,4433,90kg bag,59.44,79.0
+2026-01-05,Kitui,Kitui Central,Dry Maize,4555,90-kg bag,52.92,87.4
+2026-01-05,Makueni,Wote,Dry Maize,4448,Bag (90kg),59.93,149.9
+2026-01-05,Nairobi ,Wakulima,Dry Maize,4927,90kg bag,65.97,
+2026-01-05,Nakuru,Nakuru Main,Dry Maize,3822,90kg bag,,142.8
+2026-01-05,Uasin Gishu,Eldoret Wholesale,Dry Maize,5217,90 kg,71.77,111.7
+2026-01-12,Machakos,Machakos Town,Dry Maize,5495,90 kg,70.31,77.5
+2026-01-12,Machakos,Athi River,Dry Maize,4298,90-kg bag,57.34,32.9
+2026-01-12,Kitui,Kitui Central,Dry Maize,"KES 4,195",90 kg,51.84,83.4
+2026-01-12,Makueni ,Wote,Dry Maize,4404,90kg bag,52.13,118.0
+2026-01-12,Nairobi,Wakulima,Dry Maize,4240,90kg bag,58.22,76.0
+2026-01-12,Nakuru,Nakuru Main,Dry Maize,4820,90kg bag,63.72,127.8
+2026-01-12,Uasin Gishu,Eldoret Wholesale,Dry Maize,4761,90kg bag,57.54,
+2026-01-19,Machakos,Machakos Town,Dry Maize,5529,90kg bag,68.6,22.1
+2026-01-19,Machakos,Athi River,Dry Maize,4950,90kg bag,65.83,13.6
+2026-01-19,Kitui,Kitui Central,Dry Maize,4598,90kg bag,61.26,35.7
+2026-01-19,Makueni,Wote,Dry Maize,5326,90kg bag,67.8,73.3
+2026-01-19,Nairobi,Wakulima,Dry Maize,4879,90kg bag,62.55,89.6
+2026-01-19,Nakuru,Nakuru Main,Dry Maize,5296,90-kg bag,67.69,45.0
+2026-01-19,Uasin Gishu,Eldoret Wholesale,Dry Maize,4176,90kg bag,56.6,26.5
+2026-01-26,Machakos,Machakos Town,Dry Maize,4979,90-kg bag,69.32,46.2
+2026-01-26,Machakos,Athi River,Dry Maize,4691,90-kg bag,53.91,15.1
+2026-01-26,Kitui,Kitui Central,Dry Maize,4189,90 kg,48.84,119.1
+2026-01-26,Makueni,Wote,Dry Maize,5016,90kg bag,69.55,67.7
+2026-01-26,Nairobi,Wakulima,Dry Maize,5387,90-kg bag,75.53,94.3
+2026-01-26,Nakuru,Nakuru Main,Dry Maize,3997,90kg bag,48.41,130.3
+2026-01-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,3870,90kg bag,44.99,
+2026-02-02,Machakos,Machakos Town,Dry Maize,3932,90kg bag,44.52,116.0
+2026-02-02,Machakos ,Athi River,Dry Maize,4195,90kg bag,52.51,130.2
+2026-02-02,Kitui,Kitui Central,Dry Maize,5540,90kg bag,68.18,53.3
+2026-02-02,Makueni,Wote,Dry Maize,4988,90kg bag,66.86,49.7
+2026-02-02,Nairobi,Wakulima,Dry Maize,5239,90 kg,63.46,90.0
+2026-02-02,Nakuru,Nakuru Main,Dry Maize,"KES 4,542",90kg bag,61.31,57.5
+2026-02-02,Uasin Gishu,Eldoret Wholesale,Dry Maize,4704,90 kg,59.23,71.3
+2026-02-09,Machakos,Machakos Town,Dry Maize,4830,90kg bag,,10.6
+2026-02-09,Machakos,Athi River,Dry Maize,5186,90kg bag,67.37,
+2026-02-09,Kitui,Kitui Central,Dry Maize,"KES 4,505",90 kg,59.29,114.7
+2026-02-09,Makueni,Wote,Dry Maize,4240,90kg bag,57.77,34.6
+2026-02-09,Nairobi,Wakulima,Dry Maize,4985,90kg bag,61.38,146.5
+2026-02-09,Nakuru,Nakuru Main,Dry Maize,5243,90kg bag,65.5,
+2026-02-09,Uasin Gishu,Eldoret Wholesale,Dry Maize,4515,90kg bag,56.7,80.4
+2026-02-16,Machakos,Machakos Town,Dry Maize,4699,90kg bag,65.07,67.4
+2026-02-16,Machakos,Athi River,Dry Maize,5089,90kg bag,63.98,83.8
+2026-02-16,Kitui,Kitui Central,Dry Maize,4708,90 kg,54.28,144.1
+2026-02-16,Makueni,Wote,Dry Maize,4319,90kg bag,51.9,77.5
+2026-02-16,Nairobi ,Wakulima,Dry Maize,5281,90 kg,67.28,27.4
+2026-02-16,Nakuru,Nakuru Main,Dry Maize,3800,90-kg bag,48.63,96.7
+2026-02-16,Uasin Gishu,Eldoret Wholesale,Dry Maize,4428,90kg bag,53.93,56.3
+2026-02-23,Machakos,Machakos Town,Dry Maize,5494,90kg bag,68.1,12.7
+2026-02-23,Machakos ,Athi River,Dry Maize,4276,90kg bag,55.12,144.1
+2026-02-23,Kitui,Kitui Central,Dry Maize,5361,90kg bag,65.56,112.6
+2026-02-23,Makueni,Wote,Dry Maize,4215,Bag (90kg),57.28,47.2
+2026-02-23,Nairobi,Wakulima,Dry Maize,"KES 3,904",90kg bag,,77.6
+2026-02-23,Nakuru,Nakuru Main,Dry Maize,5154,90-kg bag,66.21,122.9
+2026-02-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,5505,90kg bag,76.35,59.9
+2026-03-02,Machakos,Machakos Town,Dry Maize,4027,Bag (90kg),50.84,40.2
+2026-03-02,Machakos,Athi River,Dry Maize,5510,90 kg,71.5,129.1
+2026-03-02,Kitui,Kitui Central,Dry Maize,4307,90kg bag,61.08,54.9
+2026-03-02,Makueni,Wote,Dry Maize,4350,90kg bag,55.47,123.7
+2026-03-02,Nairobi,Wakulima,Dry Maize,5560,90kg bag,73.02,109.5
+2026-03-02,Nakuru,Nakuru Main,Dry Maize,"KES 5,126",90 kg,,104.8
+2026-03-02,Uasin Gishu,Eldoret Wholesale,Dry Maize,3862,90kg bag,45.48,69.1
+2026-03-09,Machakos,Machakos Town,Dry Maize,5541,Bag (90kg),67.99,51.0
+2026-03-09,Machakos,Athi River,Dry Maize,3956,Bag (90kg),49.93,140.9
+2026-03-09,Kitui,Kitui Central,Dry Maize,4357,90kg bag,54.16,32.3
+2026-03-09,Makueni,Wote,Dry Maize,5115,90 kg,68.89,
+2026-03-09,Nairobi,Wakulima,Dry Maize,4594,90kg bag,55.93,44.8
+2026-03-09,Nakuru,Nakuru Main,Dry Maize,4128,90kg bag,57.41,21.0
+2026-03-09,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4875,90 kg,64.71,96.4
+2026-03-16,Machakos,Machakos Town,Dry Maize,4463,90 kg,55.74,127.1
+2026-03-16,Machakos ,Athi River,Dry Maize,4201,90kg bag,52.43,21.0
+2026-03-16,Kitui,Kitui Central,Dry Maize,5178,90kg bag,68.09,140.2
+2026-03-16,Makueni,Wote,Dry Maize,5102,90kg bag,64.85,
+2026-03-16,Nairobi ,Wakulima,Dry Maize,4742,90 kg,63.56,31.7
+2026-03-16,Nakuru,Nakuru Main,Dry Maize,4154,90kg bag,55.01,11.3
+2026-03-16,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5015,90kg bag,62.32,96.6
+2026-03-23,Machakos,Machakos Town,Dry Maize,"KES 4,838",90-kg bag,66.71,127.4
+2026-03-23,Machakos,Athi River,Dry Maize,5254,Bag (90kg),,46.6
+2026-03-23,Kitui,Kitui Central,Dry Maize,4854,90 kg,63.51,32.2
+2026-03-23,Makueni,Wote,Dry Maize,3900,Bag (90kg),49.92,27.1
+2026-03-23,Nairobi,Wakulima,Dry Maize,5258,90kg bag,66.68,104.0
+2026-03-23,Nakuru,Nakuru Main,Dry Maize,4158,90kg bag,52.15,118.4
+2026-03-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,602",90 kg,59.42,96.5
+2026-03-30,Machakos,Machakos Town,Dry Maize,5259,90kg bag,66.87,54.6
+2026-03-30,Machakos,Athi River,Dry Maize,4189,90kg bag,51.7,
+2026-03-30,Kitui,Kitui Central,Dry Maize,"KES 5,519",90 kg,75.23,123.1
+2026-03-30,Makueni,Wote,Dry Maize,"KES 3,921",90kg bag,50.12,41.9
+2026-03-30,Nairobi,Wakulima,Dry Maize,4790,90kg bag,56.77,116.0
+2026-03-30,Nakuru,Nakuru Main,Dry Maize,4056,Bag (90kg),48.57,29.0
+2026-03-30,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,473",90-kg bag,70.3,68.8
+2026-04-06,Machakos,Machakos Town,Dry Maize,4542,90kg bag,58.24,141.3
+2026-04-06,Machakos,Athi River,Dry Maize,4786,90-kg bag,55.92,130.2
+2026-04-06,Kitui,Kitui Central,Dry Maize,"KES 5,569",90-kg bag,70.67,76.3
+2026-04-06,Makueni,Wote,Dry Maize,4698,90kg bag,59.95,
+2026-04-06,Nairobi,Wakulima,Dry Maize,5179,90kg bag,66.56,138.0
+2026-04-06,Nakuru,Nakuru Main,Dry Maize,4105,90 kg,51.42,139.5
+2026-04-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,5088,90kg bag,63.67,99.8
+2026-04-13,Machakos,Machakos Town,Dry Maize,"KES 4,766",90kg bag,57.25,102.3
+2026-04-13,Machakos,Athi River,Dry Maize,"KES 3,824",90kg bag,45.12,127.9
+2026-04-13,Kitui,Kitui Central,Dry Maize,3868,90kg bag,50.99,101.4
+2026-04-13,Makueni ,Wote,Dry Maize,4212,Bag (90kg),49.53,109.9
+2026-04-13,Nairobi,Wakulima,Dry Maize,5385,90kg bag,71.51,19.3
+2026-04-13,Nakuru,Nakuru Main,Dry Maize,4436,90 kg,55.62,39.1
+2026-04-13,Uasin Gishu,Eldoret Wholesale,Dry Maize,4338,90 kg,53.17,36.4
+2026-04-20,Machakos,Machakos Town,Dry Maize,5562,90kg bag,73.62,78.5
+2026-04-20,Machakos,Athi River,Dry Maize,"KES 4,292",90kg bag,51.02,100.4
+2026-04-20,Kitui,Kitui Central,Dry Maize,5370,90kg bag,70.15,108.6
+2026-04-20,Makueni,Wote,Dry Maize,4248,90kg bag,52.33,82.1
+2026-04-20,Nairobi ,Wakulima,Dry Maize,4263,90 kg,52.13,66.4
+2026-04-20,Nakuru,Nakuru Main,Dry Maize,5098,90 kg,65.92,96.7
+2026-04-20,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,366",90-kg bag,66.77,49.0
+2026-04-27,Machakos,Machakos Town,Dry Maize,4418,90kg bag,,31.1
+2026-04-27,Machakos,Athi River,Dry Maize,4365,90kg bag,57.76,72.5
+2026-04-27,Kitui,Kitui Central,Dry Maize,4771,90kg bag,57.65,26.3
+2026-04-27,Makueni,Wote,Dry Maize,4631,90 kg,55.03,102.9
+2026-04-27,Nairobi,Wakulima,Dry Maize,3983,90kg bag,45.5,82.9
+2026-04-27,Nakuru,Nakuru Main,Dry Maize,4266,90kg bag,55.51,109.1
+2026-04-27,Uasin Gishu,Eldoret Wholesale,Dry Maize,4652,90kg bag,56.75,104.8
+2026-05-04,Machakos,Machakos Town,Dry Maize,5090,90-kg bag,60.6,137.9
+2026-05-04,Machakos,Athi River,Dry Maize,4965,90kg bag,68.46,50.8
+2026-05-04,Kitui ,Kitui Central,Dry Maize,"KES 4,124",Bag (90kg),45.2,72.5
+2026-05-04,Makueni,Wote,Dry Maize,"KES 4,363",90kg bag,56.69,144.6
+2026-05-04,Nairobi,Wakulima,Dry Maize,3866,90-kg bag,50.69,80.5
+2026-05-04,Nakuru,Nakuru Main,Dry Maize,4936,90 kg,65.46,88.0
+2026-05-04,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4696,90kg bag,62.02,95.3
+2026-05-11,Machakos,Machakos Town,Dry Maize,4885,90kg bag,62.92,102.1
+2026-05-11,Machakos,Athi River,Dry Maize,4327,90kg bag,59.36,26.7
+2026-05-11,Kitui,Kitui Central,Dry Maize,"KES 4,614",90kg bag,64.33,126.3
+2026-05-11,Makueni,Wote,Dry Maize,4272,90 kg,59.17,94.5
+2026-05-11,Nairobi,Wakulima,Dry Maize,3886,90kg bag,48.14,36.4
+2026-05-11,Nakuru,Nakuru Main,Dry Maize,3972,90kg bag,46.41,48.5
+2026-05-11,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,499",90kg bag,61.26,
+2026-05-18,Machakos,Machakos Town,Dry Maize,5525,90-kg bag,77.51,108.8
+2026-05-18,Machakos ,Athi River,Dry Maize,4739,90kg bag,59.92,127.6
+2026-05-18,Kitui,Kitui Central,Dry Maize,4242,90-kg bag,54.54,34.6
+2026-05-18,Makueni,Wote,Dry Maize,4489,90-kg bag,57.77,57.1
+2026-05-18,Nairobi,Wakulima,Dry Maize,5470,90kg bag,68.2,36.5
+2026-05-18,Nakuru,Nakuru Main,Dry Maize,4495,90kg bag,57.34,71.7
+2026-05-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,745",90kg bag,60.73,24.6
+2026-05-25,Machakos,Machakos Town,Dry Maize,"KES 4,756",90kg bag,59.04,33.1
+2026-05-25,Machakos,Athi River,Dry Maize,4567,90kg bag,64.3,123.7
+2026-05-25,Kitui,Kitui Central,Dry Maize,5528,90 kg,70.11,
+2026-05-25,Makueni,Wote,Dry Maize,4527,90kg bag,,117.1
+2026-05-25,Nairobi,Wakulima,Dry Maize,5111,Bag (90kg),61.67,145.1
+2026-05-25,Nakuru,Nakuru Main,Dry Maize,4900,90-kg bag,63.5,33.7
+2026-05-25,Uasin Gishu,Eldoret Wholesale,Dry Maize,4627,Bag (90kg),55.46,141.0
+2026-06-01,Machakos,Machakos Town,Dry Maize,4546,90 kg,54.25,16.9
+2026-06-01,Machakos ,Athi River,Dry Maize,4138,90 kg,50.19,43.2
+2026-06-01,Kitui ,Kitui Central,Dry Maize,4621,90kg bag,60.37,34.8
+2026-06-01,Makueni,Wote,Dry Maize,4845,90-kg bag,59.5,122.9
+2026-06-01,Nairobi ,Wakulima,Dry Maize,"KES 4,909",90kg bag,64.84,33.0
+2026-06-01,Nakuru ,Nakuru Main,Dry Maize,4785,90-kg bag,61.83,
+2026-06-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,4609,90kg bag,56.61,133.4
+2026-06-08,Machakos,Machakos Town,Dry Maize,4893,90kg bag,63.68,147.6
+2026-06-08,Machakos,Athi River,Dry Maize,4233,90kg bag,54.99,56.8
+2026-06-08,Kitui,Kitui Central,Dry Maize,5326,90 kg,66.41,50.4
+2026-06-08,Makueni,Wote,Dry Maize,"KES 4,483",90-kg bag,50.87,40.7
+2026-06-08,Nairobi,Wakulima,Dry Maize,4059,90-kg bag,51.43,36.1
+2026-06-08,Nakuru,Nakuru Main,Dry Maize,"KES 4,280",90kg bag,56.86,
+2026-06-08,Uasin Gishu,Eldoret Wholesale,Dry Maize,5225,90kg bag,68.11,89.4
+2026-06-15,Machakos,Machakos Town,Dry Maize,4329,90kg bag,54.22,23.3
+2026-06-15,Machakos,Athi River,Dry Maize,"KES 3,959",Bag (90kg),,136.8
+2026-06-15,Kitui,Kitui Central,Dry Maize,4119,Bag (90kg),47.44,126.5
+2026-06-15,Makueni,Wote,Dry Maize,"KES 4,967",90-kg bag,69.33,81.7
+2026-06-15,Nairobi,Wakulima,Dry Maize,4476,90kg bag,55.66,
+2026-06-15,Nakuru,Nakuru Main,Dry Maize,4227,90kg bag,52.88,94.0
+2026-06-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 3,863",90-kg bag,49.63,16.3
+2026-06-22,Machakos,Machakos Town,Dry Maize,3965,90kg bag,53.59,63.7
+2026-06-22,Machakos,Athi River,Dry Maize,4969,90kg bag,63.53,108.8
+2026-06-22,Kitui,Kitui Central,Dry Maize,4704,90kg bag,56.52,77.0
+2026-06-22,Makueni,Wote,Dry Maize,4504,90kg bag,56.18,16.9
+2026-06-22,Nairobi,Wakulima,Dry Maize,3800,90 kg,52.41,71.1
+2026-06-22,Nakuru,Nakuru Main,Dry Maize,5174,90kg bag,64.3,46.8
+2026-06-22,Uasin Gishu ,Eldoret Wholesale,Dry Maize,"KES 4,238",90kg bag,55.65,100.7
+2026-06-29,Machakos ,Machakos Town,Dry Maize,"KES 5,256",90-kg bag,69.04,119.9
+2026-06-29,Machakos,Athi River,Dry Maize,4054,Bag (90kg),55.14,46.6
+2026-06-29,Kitui,Kitui Central,Dry Maize,5246,90kg bag,66.8,136.8
+2026-06-29,Makueni,Wote,Dry Maize,4098,90kg bag,51.0,96.2
+2026-06-29,Nairobi,Wakulima,Dry Maize,4794,90kg bag,65.6,101.7
+2026-06-29,Nakuru,Nakuru Main,Dry Maize,5293,90 kg,66.69,50.9
+2026-06-29,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,297",90 kg,53.06,46.0
+2026-07-06,Machakos,Machakos Town,Dry Maize,4911,90kg bag,63.61,66.2
+2026-07-06,Machakos,Athi River,Dry Maize,5023,90 kg,67.05,42.2
+2026-07-06,Kitui,Kitui Central,Dry Maize,3961,90kg bag,50.29,44.4
+2026-07-06,Makueni ,Wote,Dry Maize,5044,Bag (90kg),62.26,141.9
+2026-07-06,Nairobi ,Wakulima,Dry Maize,3825,90kg bag,51.51,29.4
+2026-07-06,Nakuru,Nakuru Main,Dry Maize,"KES 4,560",90 kg,59.02,55.9
+2026-07-06,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5147,90-kg bag,67.8,56.7
+2026-07-13,Machakos,Machakos Town,Dry Maize,3944,90kg bag,51.58,112.3
+2026-07-13,Machakos,Athi River,Dry Maize,4582,90-kg bag,56.51,72.7
+2026-07-13,Kitui,Kitui Central,Dry Maize,3896,Bag (90kg),47.55,54.8
+2026-07-13,Makueni,Wote,Dry Maize,"KES 4,570",90kg bag,56.08,64.4
+2026-07-13,Nairobi,Wakulima,Dry Maize,5407,90-kg bag,68.85,120.1
+2026-07-13,Nakuru,Nakuru Main,Dry Maize,3841,90kg bag,50.61,84.2
+2026-07-13,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5097,90 kg,62.88,89.4
+2026-07-20,Machakos,Machakos Town,Dry Maize,4285,90kg bag,53.82,85.5
+2026-07-20,Machakos,Athi River,Dry Maize,3937,90kg bag,48.95,119.4
+2026-07-20,Kitui,Kitui Central,Dry Maize,5190,90kg bag,66.03,35.4
+2026-07-20,Makueni,Wote,Dry Maize,4857,90kg bag,61.41,
+2026-07-20,Nairobi,Wakulima,Dry Maize,"KES 5,226",90-kg bag,63.73,102.3
+2026-07-20,Nakuru,Nakuru Main,Dry Maize,4752,90kg bag,59.4,65.3
+2026-07-20,Uasin Gishu,Eldoret Wholesale,Dry Maize,5033,90kg bag,62.52,19.2
+2026-07-27,Machakos,Machakos Town,Dry Maize,"KES 4,701",90-kg bag,59.41,132.5
+2026-07-27,Machakos,Athi River,Dry Maize,5463,90 kg,,88.8
+2026-07-27,Kitui,Kitui Central,Dry Maize,5201,90 kg,64.96,116.6
+2026-07-27,Makueni,Wote,Dry Maize,4562,90kg bag,56.28,86.7
+2026-07-27,Nairobi,Wakulima,Dry Maize,3858,90kg bag,52.85,103.5
+2026-07-27,Nakuru,Nakuru Main,Dry Maize,5270,90 kg,63.53,149.5
+2026-07-27,Uasin Gishu,Eldoret Wholesale,Dry Maize,4615,90-kg bag,62.78,
+2026-08-03,Machakos,Machakos Town,Dry Maize,4419,90kg bag,57.94,
+2026-08-03,Machakos,Athi River,Dry Maize,"KES 5,457",90kg bag,71.5,13.7
+2026-08-03,Kitui,Kitui Central,Dry Maize,4740,90kg bag,68.19,136.5
+2026-08-03,Makueni,Wote,Dry Maize,5348,90kg bag,72.64,143.9
+2026-08-03,Nairobi,Wakulima,Dry Maize,"KES 5,389",Bag (90kg),67.91,15.6
+2026-08-03,Nakuru ,Nakuru Main,Dry Maize,4461,90kg bag,57.84,65.4
+2026-08-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,110",90kg bag,44.49,86.1
+2026-08-10,Machakos,Machakos Town,Dry Maize,"KES 4,732",Bag (90kg),60.14,120.0
+2026-08-10,Machakos,Athi River,Dry Maize,4310,90kg bag,58.41,27.5
+2026-08-10,Kitui,Kitui Central,Dry Maize,4263,90-kg bag,,16.9
+2026-08-10,Makueni,Wote,Dry Maize,5409,90kg bag,70.89,
+2026-08-10,Nairobi,Wakulima,Dry Maize,4656,Bag (90kg),63.87,18.8
+2026-08-10,Nakuru,Nakuru Main,Dry Maize,5044,90kg bag,67.16,41.8
+2026-08-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,4026,90kg bag,54.02,108.4
+2026-08-17,Machakos,Machakos Town,Dry Maize,4900,90kg bag,57.41,120.3
+2026-08-17,Machakos,Athi River,Dry Maize,5586,90kg bag,73.91,59.9
+2026-08-17,Kitui,Kitui Central,Dry Maize,4468,90kg bag,55.24,147.3
+2026-08-17,Makueni,Wote,Dry Maize,4614,90 kg,56.2,137.1
+2026-08-17,Nairobi,Wakulima,Dry Maize,"KES 5,277",90kg bag,65.93,37.9
+2026-08-17,Nakuru,Nakuru Main,Dry Maize,"KES 3,810",90kg bag,40.57,20.1
+2026-08-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,580",90kg bag,71.02,53.4
+2026-08-24,Machakos,Machakos Town,Dry Maize,4248,90 kg,55.32,63.5
+2026-08-24,Machakos,Athi River,Dry Maize,5432,90 kg,67.35,143.5
+2026-08-24,Kitui,Kitui Central,Dry Maize,4108,90kg bag,50.33,21.9
+2026-08-24,Makueni,Wote,Dry Maize,5176,90kg bag,63.37,54.3
+2026-08-24,Nairobi,Wakulima,Dry Maize,4146,90kg bag,48.26,141.4
+2026-08-24,Nakuru ,Nakuru Main,Dry Maize,3954,90kg bag,50.77,87.6
+2026-08-24,Uasin Gishu,Eldoret Wholesale,Dry Maize,4918,90-kg bag,,36.0
+2026-08-31,Machakos,Machakos Town,Dry Maize,5001,Bag (90kg),,46.9
+2026-08-31,Machakos ,Athi River,Dry Maize,5350,90kg bag,64.88,119.4
+2026-08-31,Kitui,Kitui Central,Dry Maize,3948,90-kg bag,,55.3
+2026-08-31,Makueni,Wote,Dry Maize,4116,90-kg bag,55.15,56.9
+2026-08-31,Nairobi,Wakulima,Dry Maize,4775,90kg bag,64.72,100.7
+2026-08-31,Nakuru,Nakuru Main,Dry Maize,5100,90-kg bag,59.25,145.2
+2026-08-31,Uasin Gishu,Eldoret Wholesale,Dry Maize,5392,90kg bag,71.5,48.4
+2026-02-23,Nairobi,Wakulima,Dry Maize,"KES 3,904",90kg bag,,77.6
+2025-03-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,781",90kg bag,63.01,56.5
+2024-05-13,Uasin Gishu,Eldoret Wholesale,Dry Maize,4369,90kg bag,56.56,131.0
+2025-11-24,Kitui,Kitui Central,Dry Maize,4143,90kg bag,53.58,
+2024-03-04,Makueni,Wote,Dry Maize,"KES 4,783",90 kg,57.67,91.9
+2026-04-27,Nakuru,Nakuru Main,Dry Maize,4266,90kg bag,55.51,109.1
+2025-02-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,836",90kg bag,58.14,31.7
+2026-01-05,Machakos,Athi River,Dry Maize,4433,90kg bag,59.44,79.0
+2025-03-31,Kitui,Kitui Central,Dry Maize,"KES 4,780",90kg bag,61.29,49.2
+2024-10-28,Uasin Gishu ,Eldoret Wholesale,Dry Maize,4474,90kg bag,55.26,144.9
+2025-03-10,Nakuru,Nakuru Main,Dry Maize,3871,Bag (90kg),50.05,26.6
+2024-03-04,Nairobi,Wakulima,Dry Maize,5197,90kg bag,64.6,146.2
+2025-10-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,4562,90kg bag,54.71,138.1
+2026-05-18,Nakuru,Nakuru Main,Dry Maize,4495,90kg bag,57.34,71.7
+2025-05-05,Machakos,Machakos Town,Dry Maize,4129,90 kg,47.37,112.8
+2026-07-27,Nairobi,Wakulima,Dry Maize,3858,90kg bag,52.85,103.5
+2024-03-11,Uasin Gishu,Eldoret Wholesale,Dry Maize,5326,Bag (90kg),68.58,111.2
+2025-03-03,Uasin Gishu,Eldoret Wholesale,Dry Maize,4538,90 kg,54.34,
+2025-06-16,Machakos,Machakos Town,Dry Maize,"KES 5,425",90 kg,68.14,21.5
+2026-05-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,745",90kg bag,60.73,24.6
+2025-12-22,Kitui,Kitui Central,Dry Maize,4984,90 kg,60.07,90.8
+2025-10-27,Machakos ,Athi River,Dry Maize,4608,90 kg,56.83,147.7
+2025-08-18,Uasin Gishu,Eldoret Wholesale,Dry Maize,4710,90-kg bag,61.2,130.9
+2025-12-01,Makueni,Wote,Dry Maize,3858,90kg bag,50.04,33.5
+2026-05-11,Nairobi,Wakulima,Dry Maize,3886,90kg bag,48.14,36.4
+2026-06-29,Machakos,Athi River,Dry Maize,4054,Bag (90kg),55.14,46.6
+2024-12-23,Kitui,Kitui Central,Dry Maize,4189,90kg bag,55.57,
+2024-11-04,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,162",Bag (90kg),62.06,50.7
+2026-01-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,3870,90kg bag,44.99,
+2026-05-11,Machakos,Machakos Town,Dry Maize,4885,90kg bag,62.92,102.1
+2024-01-22,Kitui,Kitui Central,Dry Maize,"KES 4,935",90 kg,,101.3
+2024-01-29,Kitui,Kitui Central,Dry Maize,5209,Bag (90kg),67.82,95.6
+2025-06-16,Uasin Gishu,Eldoret Wholesale,Dry Maize,4580,90kg bag,54.42,81.1
+2025-06-16,Machakos,Athi River,Dry Maize,4507,90 kg,59.67,22.3
+2024-08-05,Machakos ,Athi River,Dry Maize,4741,90 kg,61.12,88.6
+2025-03-17,Machakos,Athi River,Dry Maize,5160,90kg bag,,144.7
+2024-03-25,Nairobi,Wakulima,Dry Maize,4123,90 kg,56.84,137.2
+2024-11-11,Makueni,Wote,Dry Maize,4419,90-kg bag,57.81,149.3
+2025-06-23,Machakos,Machakos Town,Dry Maize,"KES 4,349",90kg bag,51.81,75.5
+2025-12-08,Machakos,Athi River,Dry Maize,"KES 4,446",90kg bag,54.66,150.0
+2025-08-11,Machakos,Machakos Town,Dry Maize,4467,Bag (90kg),60.28,32.5
+2026-04-20,Machakos,Athi River,Dry Maize,"KES 4,292",90kg bag,51.02,100.4
+2025-06-23,Nakuru,Nakuru Main,Dry Maize,"KES 5,262",90-kg bag,71.0,130.6
+2024-07-29,Nakuru,Nakuru Main,Dry Maize,4736,90kg bag,59.25,11.5
+2024-04-15,Kitui,Kitui Central,Dry Maize,4387,90kg bag,59.99,94.1
+2026-02-09,Nairobi,Wakulima,Dry Maize,4985,90kg bag,61.38,146.5
+2025-03-17,Nairobi,Wakulima,Dry Maize,3958,90kg bag,48.96,98.2
+2024-10-07,Machakos,Machakos Town,Dry Maize,4308,Bag (90kg),58.35,
+2025-01-06,Machakos,Machakos Town,Dry Maize,3974,90kg bag,55.45,
+2024-11-18,Nakuru,Nakuru Main,Dry Maize,5079,90kg bag,67.14,135.2
+2024-08-19,Machakos,Machakos Town,Dry Maize,"KES 4,244",90kg bag,50.47,83.3
+2025-11-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 4,823",90kg bag,62.39,60.2
+2024-02-05,Nairobi,Wakulima,Dry Maize,5435,90kg bag,67.64,
+2026-01-19,Nakuru,Nakuru Main,Dry Maize,5296,90-kg bag,67.69,45.0
+2024-11-04,Kitui,Kitui Central,Dry Maize,4555,90kg bag,63.85,126.2
+2024-09-16,Kitui ,Kitui Central,Dry Maize,4548,90kg bag,56.04,128.1
+2025-08-11,Makueni,Wote,Dry Maize,4295,90kg bag,56.02,148.0
+2024-02-26,Makueni,Wote,Dry Maize,5040,Bag (90kg),60.89,17.9
+2025-07-21,Machakos,Machakos Town,Dry Maize,3947,90 kg,50.04,77.6
+2024-05-13,Makueni,Wote,Dry Maize,"KES 4,259",90kg bag,54.03,149.6
+2024-04-01,Nakuru,Nakuru Main,Dry Maize,4886,90kg bag,60.4,36.7
+2024-10-21,Kitui,Kitui Central,Dry Maize,4835,90kg bag,62.79,
+2026-07-06,Kitui,Kitui Central,Dry Maize,3961,90kg bag,50.29,44.4
+2025-03-03,Nakuru ,Nakuru Main,Dry Maize,5125,90kg bag,,24.8
+2024-09-16,Machakos,Machakos Town,Dry Maize,4985,90-kg bag,58.89,
+2026-01-26,Kitui,Kitui Central,Dry Maize,4189,90 kg,48.84,119.1
+2026-08-10,Kitui,Kitui Central,Dry Maize,4263,90-kg bag,,16.9
+2024-03-11,Machakos,Machakos Town,Dry Maize,3906,90kg bag,52.46,77.8
+2025-12-22,Machakos,Machakos Town,Dry Maize,5133,Bag (90kg),62.75,119.6
+2024-11-04,Machakos,Athi River,Dry Maize,3974,90kg bag,49.79,82.5
+2025-08-04,Nairobi,Wakulima,Dry Maize,4984,90 kg,64.5,116.1
+2024-09-30,Nairobi,Wakulima,Dry Maize,"KES 5,323",90-kg bag,67.01,33.6
+2025-11-10,Nakuru,Nakuru Main,Dry Maize,4525,90kg bag,51.89,85.1
+2025-11-17,Kitui,Kitui Central,Dry Maize,"KES 5,028",90kg bag,66.1,103.7
+2024-06-17,Machakos,Machakos Town,Dry Maize,5154,90kg bag,61.84,86.8
+2024-03-04,Machakos,Machakos Town,Dry Maize,"KES 4,200",90kg bag,53.39,29.1
+2026-03-16,Nairobi ,Wakulima,Dry Maize,4742,90 kg,63.56,31.7
+2024-06-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,4931,90kg bag,61.2,122.8
+2025-08-11,Kitui,Kitui Central,Dry Maize,4863,90kg bag,59.01,149.4
+2025-09-15,Uasin Gishu,Eldoret Wholesale,Dry Maize,4316,90 kg,62.65,13.8
+2026-03-30,Machakos,Athi River,Dry Maize,4189,90kg bag,51.7,
+2026-01-26,Makueni,Wote,Dry Maize,5016,90kg bag,69.55,67.7
+2026-03-09,Kitui,Kitui Central,Dry Maize,4357,90kg bag,54.16,32.3
+2026-03-09,Nakuru,Nakuru Main,Dry Maize,4128,90kg bag,57.41,21.0
+2025-10-20,Kitui ,Kitui Central,Dry Maize,4929,90-kg bag,61.54,58.9
+2026-04-27,Machakos,Athi River,Dry Maize,4365,90kg bag,57.76,72.5
+2025-11-03,Nakuru,Nakuru Main,Dry Maize,5009,90kg bag,63.49,92.0
+2026-08-17,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,580",90kg bag,71.02,53.4
+2024-11-04,Nairobi,Wakulima,Dry Maize,4211,90kg bag,56.35,100.2
+2024-03-25,Kitui,Kitui Central,Dry Maize,3956,90kg bag,,57.9
+2024-09-30,Kitui,Kitui Central,Dry Maize,"KES 5,595",90kg bag,70.11,30.6
+2025-08-18,Kitui,Kitui Central,Dry Maize,3904,90kg bag,53.95,42.3
+2024-10-14,Nakuru,Nakuru Main,Dry Maize,"KES 4,121",90kg bag,49.66,136.9
+2024-07-29,Machakos,Machakos Town,Dry Maize,3921,Bag (90kg),52.61,101.9
+2026-01-19,Kitui,Kitui Central,Dry Maize,4598,90kg bag,61.26,35.7
+2025-04-28,Makueni,Wote,Dry Maize,4180,90kg bag,50.52,45.1
+2024-12-23,Nakuru,Nakuru Main,Dry Maize,"KES 4,621",90kg bag,,82.3
+2024-12-16,Machakos ,Athi River,Dry Maize,4280,90kg bag,58.43,26.4
+2025-05-12,Nairobi,Wakulima,Dry Maize,"KES 4,724",90kg bag,58.52,129.7
+2026-06-15,Makueni,Wote,Dry Maize,"KES 4,967",90-kg bag,69.33,81.7
+2025-02-24,Makueni,Wote,Dry Maize,5056,90kg bag,64.95,
+2025-12-15,Machakos,Machakos Town,Dry Maize,5558,90-kg bag,69.73,41.0
+2025-09-29,Machakos,Athi River,Dry Maize,"KES 3,865",Bag (90kg),53.38,71.5
+2025-12-08,Nairobi,Wakulima,Dry Maize,5471,90kg bag,70.38,31.5
+2026-04-06,Uasin Gishu,Eldoret Wholesale,Dry Maize,5088,90kg bag,63.67,99.8
+2026-07-13,Nakuru,Nakuru Main,Dry Maize,3841,90kg bag,50.61,84.2
+2026-08-31,Kitui,Kitui Central,Dry Maize,3948,90-kg bag,,55.3
+2025-06-02,Machakos,Athi River,Dry Maize,4144,90 kg,45.42,55.8
+2024-02-19,Uasin Gishu,Eldoret Wholesale,Dry Maize,5153,Bag (90kg),62.94,74.9
+2025-06-16,Nairobi,Wakulima,Dry Maize,4691,90kg bag,,47.9
+2025-11-10,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,346",90kg bag,71.56,11.9
+2024-08-26,Uasin Gishu,Eldoret Wholesale,Dry Maize,5273,90kg bag,67.1,125.6
+2024-03-11,Kitui,Kitui Central,Dry Maize,4718,90kg bag,59.9,12.8
+2024-09-23,Machakos,Machakos Town,Dry Maize,5512,90 kg,69.63,115.2
+2024-02-12,Kitui,Kitui Central,Dry Maize,4528,90kg bag,59.51,118.7
+2024-04-29,Machakos ,Athi River,Dry Maize,"KES 4,862",90kg bag,69.92,83.2
+2024-10-28,Nairobi,Wakulima,Dry Maize,4339,90kg bag,54.95,
+2025-09-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,"KES 5,158",90kg bag,,57.3
+2025-10-13,Nakuru,Nakuru Main,Dry Maize,3980,90kg bag,48.97,17.7
+2024-09-16,Uasin Gishu ,Eldoret Wholesale,Dry Maize,5124,90-kg bag,59.9,126.1
+2025-08-04,Makueni,Wote,Dry Maize,5581,90kg bag,73.99,89.0
+2025-06-09,Nakuru,Nakuru Main,Dry Maize,4772,90 kg,62.29,
+2024-12-23,Uasin Gishu,Eldoret Wholesale,Dry Maize,4513,90 kg,54.65,11.1
+2025-10-27,Machakos,Machakos Town,Dry Maize,4314,90kg bag,55.46,19.8
+2024-07-22,Uasin Gishu,Eldoret Wholesale,Dry Maize,3923,90kg bag,51.2,11.8
+2024-11-25,Nakuru,Nakuru Main,Dry Maize,5205,90-kg bag,62.38,68.0
+2026-04-27,Kitui,Kitui Central,Dry Maize,4771,90kg bag,57.65,26.3
+2026-03-23,Kitui,Kitui Central,Dry Maize,4854,90 kg,63.51,32.2
+2026-01-12,Nairobi,Wakulima,Dry Maize,4240,90kg bag,58.22,76.0
+2024-07-15,Makueni,Wote,Dry Maize,3963,90kg bag,51.19,27.8
+2025-05-05,Nairobi,Wakulima,Dry Maize,4889,Bag (90kg),60.35,34.8
+2026-07-06,Nakuru,Nakuru Main,Dry Maize,"KES 4,560",90 kg,59.02,55.9
+2025-03-31,Machakos,Athi River,Dry Maize,3871,90kg bag,47.57,41.7
+2024-10-07,Machakos,Athi River,Dry Maize,4456,90-kg bag,62.81,74.2
+2024-02-26,Nairobi,Wakulima,Dry Maize,4317,90kg bag,56.12,43.8
+2025-03-24,Machakos,Machakos Town,Dry Maize,4256,90kg bag,53.71,65.3
+2025-02-24,Kitui ,Kitui Central,Dry Maize,5304,90 kg,70.0,83.5
+2025-01-13,Kitui,Kitui Central,Dry Maize,5327,90kg bag,69.44,29.6
+2024-11-18,Machakos,Athi River,Dry Maize,3969,Bag (90kg),51.76,
+2025-08-04,Machakos,Athi River,Dry Maize,3909,90kg bag,49.87,110.7
+2024-06-03,Nairobi,Wakulima,Dry Maize,5428,Bag (90kg),64.69,15.1
+2025-06-30,Makueni,Wote,Dry Maize,5366,90 kg,64.88,138.2
+2025-08-25,Nairobi ,Wakulima,Dry Maize,5016,90kg bag,63.8,11.5
+2024-07-15,Kitui,Kitui Central,Dry Maize,4460,90kg bag,,144.3
+2026-01-26,Machakos,Machakos Town,Dry Maize,4979,90-kg bag,69.32,46.2
+2024-04-15,Nakuru,Nakuru Main,Dry Maize,5133,90 kg,65.87,17.2
+2025-09-08,Kitui,Kitui Central,Dry Maize,"KES 4,731",90kg bag,63.44,58.7
+2026-08-31,Machakos,Machakos Town,Dry Maize,5001,Bag (90kg),,46.9
+2026-06-01,Uasin Gishu,Eldoret Wholesale,Dry Maize,4609,90kg bag,56.61,133.4
+2024-10-21,Nakuru,Nakuru Main,Dry Maize,3940,90kg bag,48.01,
