@@ -56,3 +56,57 @@ When executed, the script successfully connected to the target agricultural port
 
 *Execution Proof & Status Code Verification:*
 ![Step 1 Execution Success](Screenshot%20(272).png)
+
+# Phase 2: Data Validation & Cleaning Engine
+##  Part One: Exploratory Data Inspection (The "View")
+
+**Executive Summary:** Before making any changes or cleaning our data, our engineering process requires taking a careful "first look" at the raw information. Jumping straight into cleaning without inspecting the data first is risky because it can hide hidden errors or structural problems. 
+
+Below is the visual walkthrough and breakdown of our raw maize market price data before any cleaning takes place.
+
+---
+
+### 1. First Look at the Raw Data
+We loaded our raw dataset (`raw_maize_market_prices.csv`) to check the column names, dates, and sample values[cite: 1].
+
+![First 5 Rows of Raw Prices Data](Screenshot%20(274).png)
+
+**What this shows us:**
+* **Dates:** The dates are recorded as plain text strings (`YYYY-MM-DD`).
+* **Price Formatting:** Some prices are clean numbers (like `4926`), while others include text formatting (like `KES 3,930`), which means we need to write a rule to clean them up.
+* **Missing Data:** We can already spot missing values (`NaN`) in the retail price and supply volume columns.
+
+---
+
+### 2. Dataset Structure & Missing Data Check
+Next, we ran a structural check using Python to see the total row count and check which columns have missing data[cite: 2].
+
+![Data Information and Null Counts](Screenshot%20(275).png)
+
+**Key Takeaways for Management:**
+* **Total Volume:** We are working with a solid baseline of exactly 1,130 records[cite: 2].
+* **Data Completeness:** While core information like dates, counties, markets, and wholesale prices are 100% complete (1,130 non-null rows), secondary columns like retail prices (1,077 rows) and supply volumes (1,042 rows) have missing records that our cleaning pipeline will handle[cite: 2].
+
+---
+
+### 3. Exact Missing Value Breakdown
+To be completely transparent and audit-ready, we calculated the exact number of missing entries for every single column[cite: 3].
+
+![Exact Missing Values per Column](Screenshot%20(276).png)
+
+**Audit Findings:**
+* **Core Info:** `0` missing values for dates, locations, and wholesale prices[cite: 3].
+* **Gaps Found:** `53` missing entries in retail prices and `88` missing entries in supply volumes[cite: 3]. Quantifying these gaps allows us to track data quality accurately.
+
+---
+
+### 4. Spotting Messy Text Entries (Unit Variations)
+Finally, we checked how market units are written across different reports[cite: 4].
+
+![Unique Units in Raw Data](Screenshot%20(277).png)
+
+**The Problem & Solution:**
+* Market reporters typed weights in different ways: `['90kg bag', '90-kg bag', 'Bag (90kg)', '90 kg']`[cite: 4]. 
+* **Action Plan:** If left uncorrected, a computer would treat these as four different items. Our upcoming cleaning script automatically standardizes all of them into a single uniform format (`90kg bag`) to ensure accurate price comparisons.
+
+---
