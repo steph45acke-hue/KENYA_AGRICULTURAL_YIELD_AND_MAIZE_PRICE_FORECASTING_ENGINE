@@ -109,8 +109,7 @@ Finally, we checked how market units are written across different reports[cite: 
 * Market reporters typed weights in different ways: `['90kg bag', '90-kg bag', 'Bag (90kg)', '90 kg']`[cite: 4]. 
 * **Action Plan:** If left uncorrected, a computer would treat these as four different items. Our upcoming cleaning script automatically standardizes all of them into a single uniform format (`90kg bag`) to ensure accurate price comparisons.
 
----
-# : Data Validation & Cleaning Engine
+
 ## 5: Automated Data-Quality & Pipeline Execution Output
 
 After establishing our exploratory baseline and writing our data transformation pipeline, we executed the script to validate, clean, and export our agricultural market price records. 
