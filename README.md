@@ -110,3 +110,31 @@ Finally, we checked how market units are written across different reports[cite: 
 * **Action Plan:** If left uncorrected, a computer would treat these as four different items. Our upcoming cleaning script automatically standardizes all of them into a single uniform format (`90kg bag`) to ensure accurate price comparisons.
 
 ---
+# : Data Validation & Cleaning Engine
+## 5: Automated Data-Quality & Pipeline Execution Output
+
+After establishing our exploratory baseline and writing our data transformation pipeline, we executed the script to validate, clean, and export our agricultural market price records. 
+
+Below is the live terminal execution showing our automated data-quality report, missing-value percentages, and geographic coverage summary.
+
+---
+
+### 1. Terminal Execution & Automated Quality Report
+The screenshot below captures the successful execution of our cleaning script inside VS Code, displaying the final metrics of our validated dataset (`data/clean/clean_maize_market_prices.csv`)[cite: 5].
+
+![Automated Data Quality Report Output](Screenshot%20(278).png)
+
+**Key Operational Takeaways:**
+* **Temporal Scope:** Successfully processed and verified a robust time-series ranging from **2024-01-01 to 2026-08-31**[cite: 5].
+* **Spatial Reach:** Confirmed coverage across **6 Counties and 7 Markets**[cite: 5], ensuring our downstream forecasting models have a geographically diverse dataset.
+* **Pipeline Integrity:** The script successfully handled missing values, standardized text inputs, stripped currency anomalies, and safely exported a clean, production-ready dataset[cite: 5].
+
+---
+
+### 2. Why This Step Matters for Management
+By automating our data quality checks and generating this report programmatically, we ensure that:
+1. **Zero Corrupt Data Enters Models:** Extreme outliers or malformed strings are caught and filtered out before predictive modeling begins.
+2. **Full Auditability:** Every missing data point, duplicate record, and formatting fix is accounted for, providing complete transparency for stakeholders.
+3. **Reproducibility:** Anyone on the team can run this script on fresh raw data drops and instantly obtain clean, standardized outputs.
+
+---
