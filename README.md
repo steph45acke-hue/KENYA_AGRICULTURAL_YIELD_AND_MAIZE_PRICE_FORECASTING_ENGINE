@@ -137,3 +137,35 @@ By automating our data quality checks and generating this report programmaticall
 3. **Reproducibility:** Anyone on the team can run this script on fresh raw data drops and instantly obtain clean, standardized outputs.
 
 ---
+# Phase 2: Data Validation & Cleaning Engine
+# 6: Exploratory Data Visualization & Impact Analysis
+
+**Executive Storytelling for Technical Portfolios:**
+In professional data engineering and predictive modeling, building a model is only 20% of the job—the other 80% is rigorous data quality assurance. Unchecked outliers, skewed distributions, and unmanaged missing data can permanently compromise forecasting accuracy. 
+
+Below is our visual audit story demonstrating how we inspected, quantified, and validated our agricultural market price feeds prior to database loading.
+
+---
+
+### 1. Visualizing Outlier Removal Impact (Boxplot Analysis)
+To ensure that extreme pricing errors (typos or erroneous bulletin entries) do not distort our future machine learning models, we analyzed the statistical spread of wholesale prices before and after cleaning[cite: 6].
+
+![Price Distribution Before vs After Outlier Removal](output%201.png)
+
+**The Engineering Narrative:**
+* **Before Cleaning (Left Boxplot):** Displays the raw price distribution[cite: 6]. While the interquartile range is stable, raw feeds in agricultural markets frequently contain extreme data-entry spikes or anomalies that stretch distribution tails.
+* **After Cleaning (Right Boxplot):** Shows the pristine distribution after applying our strict business logic bounds (filtering out unrealistic prices below KES 1,500 and above KES 10,000 per 90kg bag)[cite: 6]. 
+* **The Takeaway:** Our automated filter safely eliminates corrupted spikes while preserving the natural variance and median integrity of legitimate Kenyan market pricing.
+
+---
+
+### 2. Quantifying Initial Data Gaps (Missing Value Bar Chart)
+Transparency in data science requires auditing data completeness. We programmed a dynamic check to calculate the exact percentage of missing entries across our core feature columns[cite: 7].
+
+![Initial Missing Values Percentage by Column](output%202.png)
+
+**The Engineering Narrative:**
+* **Wholesale Price Completeness:** Achieved a flawless **0.0%** missing rate, ensuring our core target variable has complete historical coverage[cite: 7].
+* **Secondary Metrics:** Retail prices showed a minimal **4.7%** gap, while supply volumes recorded a **7.8%** missing rate[cite: 7]. 
+* **The Strategic Value:** Rather than blindly dropping valuable rows, quantifying these gaps precisely allows us to choose appropriate imputation strategies (such as rolling averages or seasonal interpolation) during downstream feature engineering without introducing artificial bias.
+
