@@ -140,7 +140,7 @@ By automating our data quality checks and generating this report programmaticall
 
 # 6: Exploratory Data Visualization & Impact Analysis
 
-**Executive Storytelling for Technical Portfolios:**
+
 In professional data engineering and predictive modeling, building a model is only 20% of the job—the other 80% is rigorous data quality assurance. Unchecked outliers, skewed distributions, and unmanaged missing data can permanently compromise forecasting accuracy. 
 
 Below is our visual audit story demonstrating how we inspected, quantified, and validated our agricultural market price feeds prior to database loading.
