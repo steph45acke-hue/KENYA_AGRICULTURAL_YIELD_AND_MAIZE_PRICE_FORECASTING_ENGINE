@@ -137,7 +137,7 @@ By automating our data quality checks and generating this report programmaticall
 3. **Reproducibility:** Anyone on the team can run this script on fresh raw data drops and instantly obtain clean, standardized outputs.
 
 ---
-# Phase 2: Data Validation & Cleaning Engine
+
 # 6: Exploratory Data Visualization & Impact Analysis
 
 **Executive Storytelling for Technical Portfolios:**
