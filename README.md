@@ -169,3 +169,33 @@ Transparency in data science requires auditing data completeness. We programmed 
 * **Secondary Metrics:** Retail prices showed a minimal **4.7%** gap, while supply volumes recorded a **7.8%** missing rate[cite: 7]. 
 * **The Strategic Value:** Rather than blindly dropping valuable rows, quantifying these gaps precisely allows us to choose appropriate imputation strategies (such as rolling averages or seasonal interpolation) during downstream feature engineering without introducing artificial bias.
 
+## Phase 3A: Relational Database Architecture & Schema Deployment
+
+### Executive Summary
+To transition our cleaned Kenyan maize price datasets from flat-file storage into a robust, production-grade architecture, Phase 3A focuses on building a fully normalized relational database (`kenya_maize_db`) using **MySQL** and **SQLAlchemy**. In agricultural economics and time-series forecasting, data integrity is paramount. Establishing a structured schema prevents data redundancy, enforces foreign key constraints across geographic and institutional dimensions, and optimizes query execution speeds for millions of historical records.
+
+---
+
+### Architectural Design & Schema Blueprint
+The database architecture is built upon a relational schema comprising four core tables designed to handle spatial hierarchies, institutional data provenance, and longitudinal price records:
+
+1. **`counties`**: The geographic root table managing administrative county boundaries with unique identifiers.
+2. **`markets`**: A child table linked via foreign keys to `counties`, capturing specific trading centers while preventing regional naming duplicates.
+3. **`data_sources`**: Tracks the institutional origin and provenance of every data batch (e.g., market bulletin inputs) for auditability.
+4. **`maize_prices`**: The core time-series transactional table storing wholesale prices per 90kg bag, retail prices per kilogram, and supply volumes, backed by composite indexing for high-performance querying.
+
+---
+
+### Implementation & Execution Workflow
+Rather than executing raw statements manually, the architecture is provisioned using an automated, idempotent deployment script. The script reads our native `.sql` schema definition file (`database_schema.sql`) and provisions the server transactions securely via Python.
+
+#### Database Deployment Execution Snapshot
+![Database Schema Deployment Success](../Screenshot%20(279).png)
+
+*The execution terminal within VS Code confirms the successful connection to the local MySQL server, execution of the parsed DDL statements from `database_schema.sql`, and the establishment of all relational tables inside `kenya_maize_db`.*
+
+---
+
+### Key Engineering Highlights
+* **Defensive Error Handling:** Implemented programmatic path validation and transaction blocks (`engine.begin()`) to ensure atomic execution—preventing partial schema states if an error occurs.
+* **Optimized Indexing:** Integrated strategic column indexing on `reporting_date` and compound indexing on `(market_id, reporting_date)` to accelerate time-series aggregations and moving-average window calculations.
