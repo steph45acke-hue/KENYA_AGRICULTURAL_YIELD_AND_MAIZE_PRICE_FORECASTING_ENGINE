@@ -190,7 +190,7 @@ The database architecture is built upon a relational schema comprising four core
 Rather than executing raw statements manually, the architecture is provisioned using an automated, idempotent deployment script. The script reads our native `.sql` schema definition file (`database_schema.sql`) and provisions the server transactions securely via Python.
 
 #### Database Deployment Execution Snapshot
-![Database Schema Deployment Success](../Screenshot%20(279).png)
+![Database Schema Deployment Success](Screenshot%20(279).png)
 
 *The execution terminal within VS Code confirms the successful connection to the local MySQL server, execution of the parsed DDL statements from `database_schema.sql`, and the establishment of all relational tables inside `kenya_maize_db`.*
 
