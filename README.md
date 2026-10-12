@@ -304,3 +304,25 @@ The script successfully initializes a connection to the MySQL database via SQLAl
 * **Common Table Expressions (CTEs):** Structured modular subqueries (`WITH market_extremes AS (...)`) to modularize multi-step aggregations before performing final calculations[cite: 2].
 * **Volatility Spread Quantification:** Successfully computed a consistent KES 400.00 price spread across key production hubs (Eldoret Central Market spanning 4,200.00 to 4,600.00, and Kitale Main Market spanning 4,000.00 to 4,400.00)[cite: 2].
 * **Sorted Margin Ranking:** Applied descending order sorting (`ORDER BY price_spread DESC`) to immediately surface high-volatility markets[cite: 2].
+
+#  G: Advanced Statistical Volatility and Dispersion Analysis
+
+## Objective
+Quantify absolute price variation and relative market stability across Kenyan agricultural hubs by calculating statistical dispersion metrics (Standard Deviation, Coefficient of Variation) and time-series rolling volatility using multi-CTE queries and analytical window frames.
+
+## Problem Solved
+Raw price trends alone do not account for baseline price differences across regions. To establish robust risk profiles, this phase utilizes two parallel CTEs (`market_dispersion` and `market_rolling_vol`) to compute:
+1. **Absolute Dispersion:** Standard Deviation (`STDDEV`) of wholesale prices per market.
+2. **Relative Risk Normalization:** Coefficient of Variation (CV %) to fairly compare volatility across markets with different average price thresholds.
+3. **Temporal Volatility:** 3-month rolling standard deviation windows via analytical partitioning (`PARTITION BY p.market_id ORDER BY p.reporting_date ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`).
+
+## Execution and Results
+The script successfully connects to the MySQL engine via SQLAlchemy, runs the multi-CTE statistical aggregation query, and outputs structured dispersion metrics for regional markets like Kitale Main Market and Eldoret Central Market[cite: 2].
+
+### Execution Output
+![Advanced Statistical Volatility and Dispersion Analysis Output](Screenshot%20%28285%29.png)
+
+## Key Takeaways
+* **Coefficient of Variation (CV):** Successfully normalized absolute price dispersion against the mean price (Kitale Main Market at 3.94% CV; Eldoret Central Market at 3.76% CV)[cite: 2].
+* **Observation Integrity:** Verified sample counts per regional grouping (`observation_count = 3`) to ensure statistical reliability before evaluation[cite: 2].
+* **Advanced Window Analytics:** Combined aggregate grouping with partitioned window frames (`OVER (...)`) within a single execution block for comprehensive data engineering[cite: 2].
