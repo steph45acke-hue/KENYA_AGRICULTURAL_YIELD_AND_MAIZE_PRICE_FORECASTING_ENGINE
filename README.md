@@ -199,15 +199,15 @@ Rather than executing raw statements manually, the architecture is provisioned u
 ### Key Engineering Highlights
 * **Defensive Error Handling:** Implemented programmatic path validation and transaction blocks (`engine.begin()`) to ensure atomic execution—preventing partial schema states if an error occurs.
 * **Optimized Indexing:** Integrated strategic column indexing on `reporting_date` and compound indexing on `(market_id, reporting_date)` to accelerate time-series aggregations and moving-average window calculations.
-# Phase B: Relational Data Integration and Base Query Validation
+#  B: Relational Data Integration and Base Query Validation
 
 ## Objective
-Populate the relational database schema (`counties`, `markets`, `data_sources`, and `maize_prices`) with realistic Kenyan time-series agricultural data, and validate it using Python and SQLAlchemy.
+Populate the relational database schema (`counties`, `markets`, `data_sources`, and `maize_prices`) with realistic Kenyan time-series agricultural data, and validate data flow using Python and SQLAlchemy.
 
 ## Problem Solved
 This phase resolved two core data engineering challenges:
-1. **Empty State:** Preventing unpopulated database tables from returning empty data frames during analytical testing.
-2. **Relational Disconnects:** Ensuring transactional price logs map cleanly to their respective markets and geographic counties without data duplication or mismatch.
+1. **Empty State Handling:** Prevented unpopulated database tables from returning empty data frames during downstream analytical queries.
+2. **Relational Integrity:** Ensured transactional price logs map accurately to their respective markets and geographic counties without data duplication or mismatch.
 
 These issues were resolved by utilizing a transactional Python script (`engine.begin()`) with SQLAlchemy `text()` to securely insert multi-region records, followed by a multi-table `JOIN` query to aggregate structured market and price metrics.
 
@@ -215,9 +215,9 @@ These issues were resolved by utilizing a transactional Python script (`engine.b
 Executing the validation query in the Jupyter Notebook successfully generated the core data frame, mapping wholesale prices, retail prices per kilogram, and supply volumes across key agricultural regions such as Trans Nzoia and Uasin Gishu.
 
 ### Execution Output
-![Database Engineering Execution Output](Screenshot%20(280)_2.png)
+![Database Engineering Execution Output](./Screenshot%20(280).png)
 
 ## Key Takeaways
-- Established strict foreign key integrity linking counties, markets, and price logs.
-- Implemented industry-standard transactional safety in Python via SQLAlchemy.
-- Validated the dataset to establish a robust foundation for advanced SQL window functions.
+* Established strict foreign key integrity linking counties, markets, and price logs.
+* Implemented industry-standard transactional safety in Python via SQLAlchemy.
+* Validated the dataset to establish a robust foundation for advanced SQL window functions.
