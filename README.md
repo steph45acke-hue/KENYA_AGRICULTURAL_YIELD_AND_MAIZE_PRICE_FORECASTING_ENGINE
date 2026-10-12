@@ -285,3 +285,22 @@ Executing the query via SQLAlchemy and Pandas correctly evaluates rolling price 
 * **Window Frame Aggregation:** Utilized explicitly bounded frame specifications (`ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`) to dynamic moving averages across chronological price logs[cite: 3].
 * **Trend Smoothing:** Computed smooth price trajectories for Eldoret Central Market (progressing from KES 4,200.00 to KES 4,383.33) and Kitale Main Market (progressing from KES 4,000.00 to KES 4,183.33)[cite: 3].
 * **Partition Safety:** Maintained strict isolation by `market_id` ensuring moving averages reset across discrete geographic locations[cite: 3].
+
+#  F: Price Spread and Regional Margin Analysis Using CTEs
+
+## Objective
+Evaluate historical price volatility and market margin ranges across regional agricultural hubs by isolating peak and trough pricing points through Common Table Expressions (CTEs) and scalar aggregation.
+
+## Problem Solved
+Raw historical price logs contain wide dispersions that are difficult to evaluate without isolating absolute extremes. Using a CTE (`market_extremes`), the query computes the historical minimum (`min_price`) and maximum (`max_price`) wholesale prices per market. It then computes the absolute variance (`price_spread`) in the outer query to rank markets by price volatility magnitude.
+
+## Execution and Results
+The script successfully initializes a connection to the MySQL database via SQLAlchemy, executes the CTE query, and returns structured price spread metrics for regional markets like Eldoret Central Market and Kitale Main Market[cite: 2].
+
+### Execution Output
+![Price Spread and Regional Margin Analysis Output](Screenshot%20%28284%29.png)
+
+## Key Takeaways
+* **Common Table Expressions (CTEs):** Structured modular subqueries (`WITH market_extremes AS (...)`) to modularize multi-step aggregations before performing final calculations[cite: 2].
+* **Volatility Spread Quantification:** Successfully computed a consistent KES 400.00 price spread across key production hubs (Eldoret Central Market spanning 4,200.00 to 4,600.00, and Kitale Main Market spanning 4,000.00 to 4,400.00)[cite: 2].
+* **Sorted Margin Ranking:** Applied descending order sorting (`ORDER BY price_spread DESC`) to immediately surface high-volatility markets[cite: 2].
