@@ -221,3 +221,26 @@ Executing the validation query in the Jupyter Notebook successfully generated th
 * Established strict foreign key integrity linking counties, markets, and price logs.
 * Implemented industry-standard transactional safety in Python via SQLAlchemy.
 * Validated the dataset to establish a robust foundation for advanced SQL window functions.
+
+#  C: Advanced Analytical Queries & Price Volatility Analysis
+
+## Objective
+Calculate month-over-month (MoM) maize wholesale price fluctuations across primary Kenyan market hubs to measure local price dynamics and volatility.
+
+## Problem Solved
+Raw historical prices alone do not clearly show trends or sudden price spikes. To analyze market dynamics, we need to compare each month's wholesale price against the price from the previous month for the same market. 
+
+Using SQL's `LAG()` window function partitioned by `market_id` and ordered by `reporting_date`, we retrieved the previous month's price and dynamically calculated the percentage change:
+
+$$\text{MoM Change (\%)} = \left( \frac{\text{Current Price} - \text{Previous Price}}{\text{Previous Price}} \right) \times 100$$
+
+## Execution and Results
+The analytical query was executed in our Python environment using Pandas and SQLAlchemy. The output successfully tracks sequential wholesale price increases across Eldoret Central Market (Uasin Gishu) and Kitale Main Market (Trans Nzoia) from January through March 2026.
+
+### Execution Output
+![Month over Month Price Volatility Output](./Screenshot%20(281).png)
+
+## Key Takeaways
+* **Window Functions:** Applied `LAG()` over named windows (`WINDOW w AS (PARTITION BY p.market_id ORDER BY p.reporting_date)`) for accurate historical lookbacks.
+* **Percentage Calculation:** Rounded price shifts to two decimal places, revealing positive month-over-month price trends (e.g., Eldoret rising from KES 4,200 to KES 4,600).
+* **Null Handling:** Initial records correctly display `NaN` for previous price as there is no preceding month in the dataset.
