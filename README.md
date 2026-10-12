@@ -264,3 +264,24 @@ Executing the query retrieves and ranks price tiers independently per county, co
 ## Key Takeaways
 * **Partitioned Ranking:** Partitioned pricing records by `county_id` to establish independent ranking hierarchies across administrative regions.
 * **Price Tier Insights:** Identified peak historical pricing per market (e.g., Uasin Gishu peak at KES 4,600 rank 1; Trans Nzoia peak at KES 4,400 rank 1).
+
+# Phase E: Rolling 3-Month Moving Average Price Smoothing Analysis
+
+## Objective
+Smooth short-term wholesale price volatility across Kenyan regional agricultural hubs using SQL window frame aggregations (`AVG() OVER ... ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`).
+
+## Problem Solved
+Raw monthly market price series often exhibit sharp localized fluctuations due to immediate supply shifts or seasonal harvest cycles. Calculating a 3-month rolling average creates a smoothed trendline that highlights underlying macroeconomic directional shifts across market locations.
+
+The query applies `AVG(p.wholesale_price_cleaned) OVER (PARTITION BY p.market_id ORDER BY p.reporting_date ROWS BETWEEN 2 PRECEDING AND CURRENT ROW)` to continuously evaluate a 3-month moving window per market without cross-contaminating regional partitions.
+
+## Execution and Results
+Executing the query via SQLAlchemy and Pandas correctly evaluates rolling price averages chronologically across Eldoret Central Market and Kitale Main Market entries.
+
+### Execution Output
+![Rolling 3-Month Moving Average Output](Screenshot%20%28283%29.png)
+
+## Key Takeaways
+* **Window Frame Aggregation:** Utilized explicitly bounded frame specifications (`ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`) to dynamic moving averages across chronological price logs[cite: 3].
+* **Trend Smoothing:** Computed smooth price trajectories for Eldoret Central Market (progressing from KES 4,200.00 to KES 4,383.33) and Kitale Main Market (progressing from KES 4,000.00 to KES 4,183.33)[cite: 3].
+* **Partition Safety:** Maintained strict isolation by `market_id` ensuring moving averages reset across discrete geographic locations[cite: 3].
