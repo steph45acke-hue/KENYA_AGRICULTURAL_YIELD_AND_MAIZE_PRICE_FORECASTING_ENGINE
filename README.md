@@ -265,7 +265,7 @@ Executing the query retrieves and ranks price tiers independently per county, co
 * **Partitioned Ranking:** Partitioned pricing records by `county_id` to establish independent ranking hierarchies across administrative regions.
 * **Price Tier Insights:** Identified peak historical pricing per market (e.g., Uasin Gishu peak at KES 4,600 rank 1; Trans Nzoia peak at KES 4,400 rank 1).
 
-# Phase E: Rolling 3-Month Moving Average Price Smoothing Analysis
+#  E: Rolling 3-Month Moving Average Price Smoothing Analysis
 
 ## Objective
 Smooth short-term wholesale price volatility across Kenyan regional agricultural hubs using SQL window frame aggregations (`AVG() OVER ... ROWS BETWEEN 2 PRECEDING AND CURRENT ROW`).
