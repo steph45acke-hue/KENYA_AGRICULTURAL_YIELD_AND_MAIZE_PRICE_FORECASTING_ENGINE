@@ -245,7 +245,7 @@ The analytical query was executed in our Python environment using Pandas and SQL
 * **Percentage Calculation:** Rounded price shifts to two decimal places, revealing positive month-over-month price trends (e.g., Eldoret rising from KES 4,200 to KES 4,600).
 * **Null Handling:** Initial records correctly display `NaN` for previous price as there is no preceding month in the dataset.
 
-# Phase D: Market Performance and Pricing Tier Analysis
+# D: Market Performance and Pricing Tier Analysis
 
 ## Objective
 Evaluate localized pricing tiers across Kenyan markets by ranking maize wholesale prices within each county using the `RANK()` window function.
