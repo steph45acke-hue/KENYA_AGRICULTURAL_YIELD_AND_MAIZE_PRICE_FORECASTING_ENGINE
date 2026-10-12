@@ -244,3 +244,23 @@ The analytical query was executed in our Python environment using Pandas and SQL
 * **Window Functions:** Applied `LAG()` over named windows (`WINDOW w AS (PARTITION BY p.market_id ORDER BY p.reporting_date)`) for accurate historical lookbacks.
 * **Percentage Calculation:** Rounded price shifts to two decimal places, revealing positive month-over-month price trends (e.g., Eldoret rising from KES 4,200 to KES 4,600).
 * **Null Handling:** Initial records correctly display `NaN` for previous price as there is no preceding month in the dataset.
+
+# Phase D: Market Performance and Pricing Tier Analysis
+
+## Objective
+Evaluate localized pricing tiers across Kenyan markets by ranking maize wholesale prices within each county using the `RANK()` window function.
+
+## Problem Solved
+Comparing wholesale prices directly across broad geographic regions can obscure local market dynamics. To identify dominant pricing tiers within specific regions, we partition the dataset by county and order price logs dynamically.
+
+The query utilizes `RANK() OVER (PARTITION BY c.county_id ORDER BY p.wholesale_price_cleaned DESC)` to reset ranking counters for each county, assigning top rank (`1`) to the highest wholesale price recorded per region.
+
+## Execution and Results
+Executing the query retrieves and ranks price tiers independently per county, correctly assigning rank positions across market entries in Uasin Gishu and Trans Nzoia.
+
+### Execution Output
+![Market Performance and Ranking Output](Screenshot%20%28282%29.png)
+
+## Key Takeaways
+* **Partitioned Ranking:** Partitioned pricing records by `county_id` to establish independent ranking hierarchies across administrative regions.
+* **Price Tier Insights:** Identified peak historical pricing per market (e.g., Uasin Gishu peak at KES 4,600 rank 1; Trans Nzoia peak at KES 4,400 rank 1).
