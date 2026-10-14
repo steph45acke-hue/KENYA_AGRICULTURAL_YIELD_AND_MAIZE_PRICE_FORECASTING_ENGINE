@@ -326,3 +326,23 @@ The script successfully connects to the MySQL engine via SQLAlchemy, runs the mu
 * **Coefficient of Variation (CV):** Successfully normalized absolute price dispersion against the mean price (Kitale Main Market at 3.94% CV; Eldoret Central Market at 3.76% CV)[cite: 2].
 * **Observation Integrity:** Verified sample counts per regional grouping (`observation_count = 3`) to ensure statistical reliability before evaluation[cite: 2].
 * **Advanced Window Analytics:** Combined aggregate grouping with partitioned window frames (`OVER (...)`) within a single execution block for comprehensive data engineering[cite: 2].
+
+# Phase 4A: Python Time-Series Engineering & SQL-to-Pandas Extraction Pipeline
+
+## Objective
+Establish a production-grade data pipeline to extract, ingest, and strictly type mixed-frequency agricultural market datasets from MySQL into a high-performance Pandas DataFrame for downstream time-series econometric modeling.
+
+## Problem Solved
+Raw database records often lack explicit temporal indexing and memory-optimized data typing, which can lead to type drift, inefficient memory overhead, and unaligned datetime operations during exploratory analysis. This pipeline bridges relational MySQL tables (`maize_prices`, `markets`) with Pandas, enforcing rigid schema constraints (`datetime64`, `category`, `float64`) and validating non-null integrity across regional observations.
+
+## Execution and Results
+The script connects to the local MySQL instance (`kenya_maize_db`) via SQLAlchemy, executes a normalized relational join query, and converts raw rows into a strongly typed DataFrame spanning regional market hubs (Eldoret Central Market and Kitale Main Market)[cite: 3].
+
+### Execution Output
+![Phase 4A SQL-to-Pandas Pipeline and Temporal Typing Output](Screenshot%20%28286%29.png)
+
+## Technical Architecture & Engineering Takeaways
+* **Relational-to-Analytical Bridge:** Leveraged SQLAlchemy engine integration to execute high-performance `pd.read_sql` data pulls directly from normalized SQL schemas[cite: 3].
+* **Memory Optimization:** Converted low-cardinality metadata (`county_id`, `market`, `commodity`) into Pandas `category` datatypes, minimizing memory consumption (333.0 bytes total footprint)[cite: 3].
+* **Strict Temporal Enforcement:** Standardized reporting timestamps into `datetime64[s]` format to enable precise chronological indexing and moving-window calculations for econometric forecasting[cite: 3].
+* **Error-Resistant Numeric Casting:** Applied `pd.to_numeric` with `errors='coerce'` to safeguard against malformed strings or missing records during price extraction[cite: 3].
