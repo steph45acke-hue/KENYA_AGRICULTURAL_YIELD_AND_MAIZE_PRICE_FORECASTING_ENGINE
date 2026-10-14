@@ -346,3 +346,21 @@ The script connects to the local MySQL instance (`kenya_maize_db`) via SQLAlchem
 * **Memory Optimization:** Converted low-cardinality metadata (`county_id`, `market`, `commodity`) into Pandas `category` datatypes, minimizing memory consumption (333.0 bytes total footprint)[cite: 3].
 * **Strict Temporal Enforcement:** Standardized reporting timestamps into `datetime64[s]` format to enable precise chronological indexing and moving-window calculations for econometric forecasting[cite: 3].
 * **Error-Resistant Numeric Casting:** Applied `pd.to_numeric` with `errors='coerce'` to safeguard against malformed strings or missing records during price extraction[cite: 3].
+# B: Temporal Aggregation and Alignment Engine
+
+## Objective
+Harmonize raw, mixed-frequency agricultural records into a clean, uniform monthly time-series dataset, preparing the data for robust econometric forecasting and price trend analysis.
+
+## Problem Sold
+Raw agricultural datasets often contain inconsistent timelines, unaligned date intervals, or missing gaps. Blindly forward-filling or interpolating data can distort real seasonal trends. This phase uses Pandas grouping, month-start resampling (`MS`), and centered rolling-window calculations to smooth and align prices across regional markets (Eldoret Central Market and Kitale Main Market) while preserving true historical behavior[cite: 3].
+
+## Execution and Results
+The script sorts the extracted dataframe chronologically, resamples records to a monthly frequency using `pd.Grouper`, computes average monthly prices, and applies a 3-month centered rolling window to fill missing gaps cleanly[cite: 3].
+
+### Execution Output
+![Phase 4B Temporal Aggregation and Alignment Engine Output](Screenshot%20%28287%29.png)
+
+## Technical Architecture & Engineering Takeaways
+* **Chronological Sorting:** Ensured time-series integrity by sorting data by county, market, and date prior to aggregation[cite: 3].
+* **Monthly Resampling:** Standardized irregular reporting dates into uniform Month Start (`MS`) frequency blocks[cite: 3].
+* **Robust Gap Handling:** Utilized rolling-window transformations (`window=3, center=True`) to estimate missing values dynamically without flattening seasonal variations[cite: 3].
