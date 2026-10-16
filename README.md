@@ -364,3 +364,15 @@ The script sorts the extracted dataframe chronologically, resamples records to a
 * **Chronological Sorting:** Ensured time-series integrity by sorting data by county, market, and date prior to aggregation[cite: 3].
 * **Monthly Resampling:** Standardized irregular reporting dates into uniform Month Start (`MS`) frequency blocks[cite: 3].
 * **Robust Gap Handling:** Utilized rolling-window transformations (`window=3, center=True`) to estimate missing values dynamically without flattening seasonal variations[cite: 3].
+### Phase 5: Advanced Feature Engineering & Time-Series Modeling
+
+Raw agricultural price data alone is insufficient for accurate forecasting. Market prices are heavily influenced by temporal inertia, historical volatility, seasonal production cycles, and local supply shocks. To transform raw database records into high-value econometric inputs, Phase 5 implements a rigorous feature engineering pipeline designed to bridge historical observation and predictive modeling.
+
+#### Business Problem & Solution
+* **The Problem**: Raw pricing data lacks temporal context. A price of KES 4,200/bag in Eldoret means little without knowing whether it represents a sudden price spike, a seasonal trough, or a lagging trend from previous months' supply shortages.
+* **The Solution**: By engineering multi-period lags ($t-1, t-3, t-6$), 3-month rolling averages, volatility measures (rolling standard deviation), and percentage changes, we quantify market momentum. Furthermore, incorporating supply volume aggregations and binary planting/harvesting calendar flags enables predictive models to learn structural agricultural patterns.
+
+#### Pipeline Execution & Verification
+The script successfully extracts records from the MySQL relational database, resamples irregular reporting frequencies into uniform monthly intervals, handles data gaps using rolling imputation, and generates a clean feature matrix ready for machine learning.
+
+![Phase 5 Feature Engineering Output](Screenshot%20(289).png)
