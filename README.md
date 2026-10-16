@@ -376,10 +376,9 @@ Raw agricultural price data alone is insufficient for accurate forecasting. Mark
 The script successfully extracts records from the MySQL relational database, resamples irregular reporting frequencies into uniform monthly intervals, handles data gaps using rolling imputation, and generates a clean feature matrix ready for machine learning.
 
 ![Phase 5 Feature Engineering Output](Screenshot%20(289).png)
-
 ### Phase 6A: Statistical Analysis & Hypothesis Testing
 
-Beyond data cleaning and feature engineering, an elite agricultural forecasting model must answer fundamental economic questions. Phase 6A transitions our pipeline into rigorous econometric and statistical validation, testing core market assumptions about seasonality, regional variance, and supply-demand elasticities.
+Beyond data cleaning and feature engineering, an elite agricultural forecasting model must answer fundamental economic questions. Phase 6A transitions our pipeline into rigorous econometric and statistical validation, testing core market assumptions about seasonality, regional variance, multicollinearity, and supply-demand elasticities.
 
 #### Detailed Statistical Breakdown & Insights
 
@@ -399,7 +398,11 @@ Beyond data cleaning and feature engineering, an elite agricultural forecasting 
    - **What it shows**: We got a Pearson correlation of -0.7639 and a Spearman rank correlation of -0.8286 (mitigated with a significant Spearman $p$-value of 0.0416).
    - **Why it matters**: This is the crown jewel of your statistical analysis. A strong negative correlation around $-0.83$ proves basic economic theory in action: when local supply volumes go up, wholesale maize prices drop; when supply shrinks, prices spike. The statistical significance ($p < 0.05$) gives you empirical proof to include in your portfolio that supply shocks directly drive price volatility in Kenya's maize markets.
 
-#### Pipeline Execution & Verification
-The script successfully connects to the MySQL database, filters valid data rows, executes parametric and non-parametric hypothesis tests, and outputs statistical test metrics.
+5. **Multicollinearity Analysis (Variance Inflation Factor - VIF)**
+   - **What it shows**: Computed VIF scores for our feature variables (`price` and `supply_volume`), returning a stable VIF score of ~2.40 for both features.
+   - **Why it matters**: Demonstrates advanced econometric rigor by checking whether predictor variables are overly collinear. Crucially, it highlights senior engineering judgment: high VIF or collinearity is not grounds for blind feature deletion; economic context and predictive power guide our retention decisions.
 
-![Phase 6A Statistical Analysis Output](Screenshot%20(290).png)
+#### Pipeline Execution & Verification
+The script successfully connects to the MySQL database, filters valid data rows, executes parametric and non-parametric hypothesis tests, calculates multicollinearity diagnostics, and outputs statistical test metrics.
+
+![Phase 6A Statistical Analysis Output](Screenshot%20(291).png)
