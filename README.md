@@ -364,7 +364,7 @@ The script sorts the extracted dataframe chronologically, resamples records to a
 * **Chronological Sorting:** Ensured time-series integrity by sorting data by county, market, and date prior to aggregation[cite: 3].
 * **Monthly Resampling:** Standardized irregular reporting dates into uniform Month Start (`MS`) frequency blocks[cite: 3].
 * **Robust Gap Handling:** Utilized rolling-window transformations (`window=3, center=True`) to estimate missing values dynamically without flattening seasonal variations[cite: 3].
-### Phase 5: Advanced Feature Engineering & Time-Series Modeling
+### Phase 5A: Advanced Feature Engineering & Time-Series Modeling
 
 Raw agricultural price data alone is insufficient for accurate forecasting. Market prices are heavily influenced by temporal inertia, historical volatility, seasonal production cycles, and local supply shocks. To transform raw database records into high-value econometric inputs, Phase 5 implements a rigorous feature engineering pipeline designed to bridge historical observation and predictive modeling.
 
