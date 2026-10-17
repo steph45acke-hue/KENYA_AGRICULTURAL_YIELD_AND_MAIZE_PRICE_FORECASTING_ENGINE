@@ -1,4 +1,5 @@
 # 🇰🇪 Kenya Agricultural Yield & Maize Price Forecasting Engine
+![Kenya Agri-Market Intelligence Engine Banner](./banner.png)
 
 An enterprise-grade, end-to-end Data Science and Engineering platform built to model, analyze, and forecast maize market price dynamics and agricultural yield variations across Kenya.
 
