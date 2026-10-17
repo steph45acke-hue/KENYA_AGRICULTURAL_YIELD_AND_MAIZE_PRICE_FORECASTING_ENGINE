@@ -432,4 +432,44 @@ Raw numbers and statistical tables alone don't tell the full story to hiring man
 #### Pipeline Execution & Verification
 The Python script successfully connected to our MySQL database, cleaned and filtered date ranges, processed market groupings, and generated the comprehensive 4-panel exploratory visualization suite below.
 
-![Phase 7 Exploratory Visualizations Output](phase_7_exploratory_visualizations.png)
+![Phase 7 Exploratory Visualizations Output](phase_7_exploratory_visualizations.png).
+
+# 🌽 Kenya Agricultural Market Intelligence & Forecasting Platform
+
+👉 **[Launch Interactive Dashboard Solution](https://github.com/steph45acke-hue/KENYA_AGRICULTURAL_YIELD_AND_MAIZE_PRICE_FORECASTING_ENGINE)**
+
+---
+
+## 💡 The Problem & Operational Solution
+
+Maize is Kenya’s primary food security commodity, yet market participants—from smallholder farmers and grain traders to policy advisors—frequently face extreme price volatility, localized supply bottlenecks, and unpredictable climate disruptions.
+
+This interactive platform directly solves these challenges by turning raw regional data into an automated, real-time decision support engine. It provides immediate, actionable intelligence to mitigate risk across the agricultural value chain:
+
+* **Regional Price Transparency:** Eliminates market information asymmetry by tracking wholesale price shifts across major trading hubs in real time.
+* **Geospatial Supply Chain Mapping:** Visualizes geographic pricing heatmaps and volume distributions to identify regional deficit and surplus zones instantly.
+* **Climate-Yield Risk Assessment:** Correlates monthly rainfall fluctuations directly against agricultural yield dynamics to anticipate local production shortfalls before they impact market supply.
+* **Predictive Market Risk Management:** Generates 6-month forward-looking econometric price forecasts wrapped in 95% uncertainty bounds, allowing traders and buyers to hedge against inflation and supply shocks.
+
+---
+
+## 📊 Live Interactive Dashboard Interface & Solution Breakdown
+
+### 📍 County & Market Geospatial Intelligence
+**The Solution:** Provides an interactive geographical overview of wholesale markets to help logistics managers and traders pinpoint regional price disparities and optimize supply routing across counties.
+
+![Geospatial Market Distribution](Screenshot%20(293).jpg)
+
+---
+
+### 📈 Regional Price Trends & Weather Impact Analytics
+**The Solution:** Combines multi-market time-series analytics with weather correlation matrices, giving agricultural analysts the ability to monitor price stability and evaluate how rainfall variations historically influence crop productivity.
+
+![Market Price Dynamics](Screenshot%20(294).jpg)
+
+---
+
+### 🔮 Econometric Price Forecasting Engine
+**The Solution:** Delivers robust 6-month forward pricing outlooks complete with upper and lower confidence intervals, equipping decision-makers with the foresight needed for proactive inventory planning, risk management, and pricing policy formulation.
+
+![Econometric Price Forecast](Screenshot%20(295).png)
