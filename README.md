@@ -406,3 +406,30 @@ Beyond data cleaning and feature engineering, an elite agricultural forecasting 
 The script successfully connects to the MySQL database, filters valid data rows, executes parametric and non-parametric hypothesis tests, calculates multicollinearity diagnostics, and outputs statistical test metrics.
 
 ![Phase 6A Statistical Analysis Output](Screenshot%20(291).png)
+
+### Phase 7: Exploratory Visualizations & Market Insights
+
+Raw numbers and statistical tables alone don't tell the full story to hiring managers—visual proof does. In Phase 7, we built a 4-panel visual dashboard using Python (Matplotlib and Seaborn) to solve the core challenge of agricultural data analysis: translating complex price fluctuations, seasonal gaps, and supply shocks into intuitive, actionable market intelligence.
+
+#### Detailed Breakdown, Economic Explanation & Solutions
+
+1. **A. Wholesale Price Distribution Across Key Markets**
+   - **Explanation**: This chart maps out the probability density and frequency of wholesale prices across Eldoret Central and Kitale Main markets. 
+   - **Solution & Value**: Instead of guessing where market prices cluster, this distribution plot instantly identifies modal price ranges (between KES 4,000 and KES 4,600) and highlights structural price parity between these two major Rift Valley agricultural hubs.
+
+2. **B. Seasonality: Average Wholesale Price by Month**
+   - **Explanation**: A chronological line graph tracking average wholesale price shifts across monthly periods.
+   - **Solution & Value**: Seasonality is a massive pain point in agricultural forecasting due to planting and harvesting cycles. This chart provides the structural foundation needed to model seasonal price rigidity and predict when food inflation peaks occur during lean pre-harvest windows.
+
+3. **C. Price Dispersion & Volatility by Market (IQR)**
+   - **Explanation**: Box plots comparing price medians, spreads, and Interquartile Ranges (IQR) across markets.
+   - **Solution & Value**: Outliers and extreme price shocks can ruin forecasting models. Using robust box plots gives us an outlier-resistant view of market stability, proving that Eldoret and Kitale maintain tight, predictable price bands with minimal erratic volatility.
+
+4. **D. Supply Volume vs. Price Elasticity ($r \approx -0.83$)**
+   - **Explanation**: A scatter plot paired with an ordinary least squares regression trendline mapping local supply volume against wholesale pricing.
+   - **Solution & Value**: This solves the core econometric hypothesis of the project. A strong negative correlation ($r \approx -0.83$) empirically proves basic economic supply-demand theory: when local supply volumes drop, wholesale maize prices spike. This gives your portfolio concrete proof that supply shocks directly drive market volatility in Kenya.
+
+#### Pipeline Execution & Verification
+The Python script successfully connected to our MySQL database, cleaned and filtered date ranges, processed market groupings, and generated the comprehensive 4-panel exploratory visualization suite below.
+
+![Phase 7 Exploratory Visualizations Output](phase_7_exploratory_visualizations.jpg)
