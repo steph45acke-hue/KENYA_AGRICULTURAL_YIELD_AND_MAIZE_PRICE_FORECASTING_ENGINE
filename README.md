@@ -432,4 +432,4 @@ Raw numbers and statistical tables alone don't tell the full story to hiring man
 #### Pipeline Execution & Verification
 The Python script successfully connected to our MySQL database, cleaned and filtered date ranges, processed market groupings, and generated the comprehensive 4-panel exploratory visualization suite below.
 
-![Phase 7 Exploratory Visualizations Output](phase_7_exploratory_visualizations.jpg)
+![Phase 7 Exploratory Visualizations Output](phase_7_exploratory_visualizations.png)
