@@ -509,13 +509,38 @@ This interactive platform directly solves these challenges by turning raw region
 
 ![Econometric Price Forecast](./Screenshot%20(295).png)
 
+# 📊 Model Evaluation & Visual Analysis
 
-## 📊 Visual Analysis of Model Performance (`ML output.png`)
+To evaluate the predictive accuracy of our machine learning pipeline on unseen market data, we benchmarked our top-performing models against actual wholesale maize prices across the test timeline (December 2025 to February 2026).
 
-![Kenya Maize Wholesale Price: Actual vs. Top ML Models](./ML output.png)
+---
 
-The chart illustrates the out-of-sample performance of the top-performing machine learning models against actual wholesale maize prices across the test timeline from December 2025 to February 2026[cite: 1]:
+## 📈 Visual Performance Analysis (`ML output.png`)
 
-* **Actual Market Price (White Solid Line):** Shows the real wholesale price trajectory in KES per tonne[cite: 1]. It records approximately 4,058 KES on December 1, 2025, drops to a low of 4,036 KES on January 1, 2026, and stabilizes around 4,041 KES by February 1, 2026[cite: 1].
-* **XGBoost Prediction (Cyan Dashed Line):** Follows an upward trend across the test window, starting at roughly 4,122 KES on December 1, rising to 4,148 KES in January, and reaching 4,154 KES by February[cite: 1]. 
-* **LightGBM Prediction (Orange Dotted Line):** Maintains a flat, conservative horizontal baseline right around the 4,168 KES mark across all three evaluation periods, serving as an upper-bound price estimation[cite: 1].
+<img src="./ML%20output.png" alt="Kenya Maize Wholesale Price: Actual vs. Top ML Models" width="100%"/>
+
+### Exact Data Breakdown from the Visualization:
+
+* **Actual Market Price (White Line & Circles):** 
+  * **2025-12-01:** Starts at **~4,058 KES / Tonne**.
+  * **2026-01-01:** Dips to a low of **~4,037 KES / Tonne**.
+  * **2026-02-01:** Slightly recovers and stabilizes at **~4,041 KES / Tonne**.
+  * *Market Trajectory:* Reflects real wholesale price movements, exhibiting a slight downward trend into early 2026 before flattening.
+
+* **XGBoost Prediction (Cyan Dashed Line & Crosses):** 
+  * **2025-12-01:** Starts at **~4,122 KES / Tonne**.
+  * **2026-01-01:** Rises to **~4,148 KES / Tonne**.
+  * **2026-02-01:** Reaches **~4,154 KES / Tonne**.
+  * *Model Behavior:* Tracks dynamic trend movements across the timeline, capturing momentum and lag effects from the input features.
+
+* **LightGBM Prediction (Orange Dotted Line & Squares):** 
+  * **2025-12-01 to 2026-02-01:** Holds flat across all test points at **~4,168 KES / Tonne**.
+  * *Model Behavior:* Serves as a steady, conservative upper-bound baseline estimator over this test window.
+
+---
+
+## 🛠️ Summary of Technical Execution
+
+1. **Strict Temporal Splitting:** An 80/20 sequential train-test split was enforced to eliminate data leakage.
+2. **Feature Integration:** Historical price lags, seasonal moving averages, and rainfall features were used as input regressors.
+3. **Production Readout:** Evaluated using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to give agricultural stakeholders and millers clear cost visibility.
