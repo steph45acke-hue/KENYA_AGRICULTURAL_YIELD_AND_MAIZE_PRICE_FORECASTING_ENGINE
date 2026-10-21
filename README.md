@@ -573,3 +573,13 @@ The **Kenya Agricultural Yield and Maize Price Forecasting Engine** is built usi
 ### 📂 Version Control & Documentation
 * **Git & GitHub:** Applied for systematic source control, issue tracking, and repository management.
 * **Markdown:** Used to author structured, technical documentation and stakeholder summaries.
+
+## 🚀 How to Run & Use the Forecasting Engine
+
+Follow these instructions to clone the repository, set up your local environment, ingest data via MySQL, and launch the forecasting pipeline.
+
+### 1. Clone the Repository
+Open your terminal and clone your GitHub repository:
+```bash
+git clone [https://github.com/steph45acke-hue/kenya-maize-forecasting.git](https://github.com/steph45acke-hue/kenya-maize-forecasting.git)
+cd kenya-maize-forecasting
