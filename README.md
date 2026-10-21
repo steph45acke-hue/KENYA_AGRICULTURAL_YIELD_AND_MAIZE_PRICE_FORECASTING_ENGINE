@@ -544,3 +544,32 @@ To evaluate the predictive accuracy of our machine learning pipeline on unseen m
 1. **Strict Temporal Splitting:** An 80/20 sequential train-test split was enforced to eliminate data leakage.
 2. **Feature Integration:** Historical price lags, seasonal moving averages, and rainfall features were used as input regressors.
 3. **Production Readout:** Evaluated using Root Mean Squared Error (RMSE) and Mean Absolute Error (MAE) to give agricultural stakeholders and millers clear cost visibility.
+
+
+## 🛠️ Tech Stack & Implementation Tools
+
+The **Kenya Agricultural Yield and Maize Price Forecasting Engine** is built using a modern, scalable open-source stack designed for end-to-end data processing, relational database management, time-series feature engineering, machine learning modeling, and visual analytics:
+
+### 🐍 Core Programming & Environment
+* **Python 3.x:** Primary language powering the entire data pipeline, feature engineering modules, and machine learning models.
+* **VS Code / PyCharm:** Integrated Development Environments (IDEs) used for modular development, debugging, and environment management.
+
+### 🗄️ Relational Database Management
+* **MySQL & MySQL Workbench:** Used for designing and querying multi-table relational databases (storing categories, regional wholesale markets, pricing records, and rainfall datasets), writing optimized SQL queries, joins, and data aggregation before pipeline ingestion.
+
+### 📊 Data Processing & Feature Engineering
+* **Pandas:** Used for time-series data structuring, handling sequential date indexing, imputing missing weather values, and creating seasonal price lags.
+* **NumPy:** Leveraged for numerical operations, array transformations, and mathematical calculations across rolling window statistics.
+
+### 🤖 Machine Learning Frameworks
+* **Scikit-Learn:** Provides baseline models (Ridge Regression), regularized linear utilities, train-test splitting routines, and evaluation metrics (RMSE, MAE).
+* **XGBoost:** Extreme gradient boosting framework utilized for capturing non-linear feature interactions and market volatility.
+* **LightGBM:** Fast, leaf-wise gradient boosting framework optimized for scalable tabular regression and baseline estimations.
+
+### 📈 Data Visualization & Analytics
+* **Matplotlib:** Native library used to render high-contrast, publication-quality performance graphs (e.g., `ML output.png`) comparing ground-truth market prices against model predictions.
+* **Streamlit:** Web application framework used to build interactive, real-time analytics dashboards for stakeholders and agricultural decision-makers.
+
+### 📂 Version Control & Documentation
+* **Git & GitHub:** Applied for systematic source control, issue tracking, and repository management.
+* **Markdown:** Used to author structured, technical documentation and stakeholder summaries.
