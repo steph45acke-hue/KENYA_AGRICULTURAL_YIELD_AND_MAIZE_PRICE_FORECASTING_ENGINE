@@ -508,3 +508,14 @@ This interactive platform directly solves these challenges by turning raw region
 **The Solution:** Delivers robust 6-month forward pricing outlooks complete with upper and lower confidence intervals, equipping decision-makers with the foresight needed for proactive inventory planning, risk management, and pricing policy formulation.
 
 ![Econometric Price Forecast](./Screenshot%20(295).png)
+
+
+## 📊 Visual Analysis of Model Performance (`ML output.png`)
+
+![Kenya Maize Wholesale Price: Actual vs. Top ML Models](./ML output.png)
+
+The chart illustrates the out-of-sample performance of the top-performing machine learning models against actual wholesale maize prices across the test timeline from December 2025 to February 2026[cite: 1]:
+
+* **Actual Market Price (White Solid Line):** Shows the real wholesale price trajectory in KES per tonne[cite: 1]. It records approximately 4,058 KES on December 1, 2025, drops to a low of 4,036 KES on January 1, 2026, and stabilizes around 4,041 KES by February 1, 2026[cite: 1].
+* **XGBoost Prediction (Cyan Dashed Line):** Follows an upward trend across the test window, starting at roughly 4,122 KES on December 1, rising to 4,148 KES in January, and reaching 4,154 KES by February[cite: 1]. 
+* **LightGBM Prediction (Orange Dotted Line):** Maintains a flat, conservative horizontal baseline right around the 4,168 KES mark across all three evaluation periods, serving as an upper-bound price estimation[cite: 1].
